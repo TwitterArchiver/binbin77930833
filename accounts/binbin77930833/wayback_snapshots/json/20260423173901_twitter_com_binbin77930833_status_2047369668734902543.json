@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2047243832392032374",
+    "created_at": "2026-04-23T17:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047369668734902543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022521225424310272",
+          "start": 0,
+          "username": "Danyixia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047369668734902543",
+    "in_reply_to_user_id": "2022521225424310272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047243832392032374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Danyixia 帮助戒网瘾学校开脱的 本质上已经不是人类的范畴了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44566,
+        "height": 1920,
+        "media_key": "13_2047224154248855552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047224154248855552/img/YuDzAmiwqGYHjkTD.jpg",
+        "public_metrics": {
+          "view_count": 14303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047224154248855552/vid/avc1/320x568/HWk7cfDkUrWEbGOy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047224154248855552/vid/avc1/480x852/MIl46lWeH9dRyAco.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047224154248855552/vid/avc1/720x1280/h4wyJ9SkXDs1q3m9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047224154248855552/pl/UcuzcxNU8tSS0K9u.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2047243832392032374",
+        "created_at": "2026-04-23T17:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047369668734902543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022521225424310272",
+              "start": 0,
+              "username": "Danyixia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047369668734902543",
+        "in_reply_to_user_id": "2022521225424310272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047243832392032374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Danyixia 帮助戒网瘾学校开脱的 本质上已经不是人类的范畴了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047224154248855552"
+          ]
+        },
+        "author_id": "2022521225424310272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047243832392032374",
+        "created_at": "2026-04-23T09:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047243832392032374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBBiUa50tX",
+              "end": 44,
+              "expanded_url": "https://x.com/Danyixia/status/2047243832392032374/video/1",
+              "media_key": "13_2047224154248855552",
+              "start": 21,
+              "url": "https://t.co/BBBiUa50tX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047243832392032374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18645,
+          "like_count": 182,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "想吃就吃，无限供应！中国少年的成长过程。 https://t.co/BBBiUa50tX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 293,
+          "like_count": 1055,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T04:00:50.000Z",
+        "description": "I'm back,I never though of leaving here!",
+        "id": "2022521225424310272",
+        "name": "夏一旦同学",
+        "pinned_tweet_id": "2046900570682753378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023642892582219777/m0DYXxQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9563,
+          "following_count": 171,
+          "like_count": 2917,
+          "listed_count": 22,
+          "media_count": 1593,
+          "tweet_count": 3917
+        },
+        "username": "Danyixia",
+        "verified": false
+      }
+    ]
+  }
+}

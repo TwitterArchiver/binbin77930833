@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003682298651430912"
+      ],
+      "media_source_tweet_id": [
+        "2003682301809758407"
+      ]
+    },
+    "author_id": "1775522951749591040",
+    "conversation_id": "2003684107398848918",
+    "created_at": "2025-12-24T04:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T05:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003684107398848918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003512763185004544",
+          "start": 3,
+          "username": "yaowubaikeLW"
+        },
+        {
+          "end": 55,
+          "id": "1775522951749591040",
+          "start": 40,
+          "username": "binbin77930833"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6frrQFKGK8",
+          "end": 113,
+          "expanded_url": "https://x.com/yaowubaikeLW/status/2003682301809758407/photo/1",
+          "media_key": "3_2003682298651430912",
+          "start": 90,
+          "url": "https://t.co/6frrQFKGK8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003684107398848918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003682301809758407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaowubaikeLW: 鉴于药物百科巨大变动，遂将研究成果释放，感谢@binbin77930833提供的源文件，原编辑组准备经过测试完善再公布，但由于巨大变故只能作罢 https://t.co/6frrQFKGK8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003682298651430912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86Cb0XbUAA2ejx.jpg",
+        "width": 483
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003682298651430912"
+          ],
+          "media_source_tweet_id": [
+            "2003682301809758407"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2003684107398848918",
+        "created_at": "2025-12-24T04:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003684107398848918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003512763185004544",
+              "start": 3,
+              "username": "yaowubaikeLW"
+            },
+            {
+              "end": 55,
+              "id": "1775522951749591040",
+              "start": 40,
+              "username": "binbin77930833"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6frrQFKGK8",
+              "end": 113,
+              "expanded_url": "https://x.com/yaowubaikeLW/status/2003682301809758407/photo/1",
+              "media_key": "3_2003682298651430912",
+              "start": 90,
+              "url": "https://t.co/6frrQFKGK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003684107398848918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003682301809758407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaowubaikeLW: 鉴于药物百科巨大变动，遂将研究成果释放，感谢@binbin77930833提供的源文件，原编辑组准备经过测试完善再公布，但由于巨大变故只能作罢 https://t.co/6frrQFKGK8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003682298651430912"
+          ]
+        },
+        "author_id": "2003512763185004544",
+        "conversation_id": "2003682301809758407",
+        "created_at": "2025-12-24T04:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003682301809758407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1775522951749591040",
+              "start": 22,
+              "username": "binbin77930833"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6frrQFKGK8",
+              "end": 95,
+              "expanded_url": "https://x.com/yaowubaikeLW/status/2003682301809758407/photo/1",
+              "media_key": "3_2003682298651430912",
+              "start": 72,
+              "url": "https://t.co/6frrQFKGK8"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/yaowubaike/status/1985750611703578761",
+              "start": 96,
+              "url": "https://t.co/6qEAUQmPU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003682301809758407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985750611703578761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鉴于药物百科巨大变动，遂将研究成果释放，感谢@binbin77930833提供的源文件，原编辑组准备经过测试完善再公布，但由于巨大变故只能作罢 https://t.co/6frrQFKGK8 https://t.co/6qEAUQmPU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 156,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-23T17:08:59.000Z",
+        "description": "现由于长久以来的变动，药物百科基本解体，该账号可能会发送一些过去药物百科的研究成果",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/gtL0VUVvQW"
+              }
+            ]
+          }
+        },
+        "id": "2003512763185004544",
+        "location": "药物百科行动小组",
+        "name": "药物百科流亡政府",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003516263675625478/N_ux9Flp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/gtL0VUVvQW",
+        "username": "yaowubaikeLW",
+        "verified": false
+      }
+    ]
+  }
+}

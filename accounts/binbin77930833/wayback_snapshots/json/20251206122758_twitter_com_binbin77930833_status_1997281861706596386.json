@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "1997240668448760154",
+    "created_at": "2025-12-06T12:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T13:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997281861706596386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 31,
+          "id": "1741220157463379968",
+          "start": 17,
+          "username": "xialing253446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997281861706596386",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997249638416662548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 @xialing253446 我出幻觉了没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "1997240668448760154",
+        "created_at": "2025-12-06T12:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997281861706596386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 31,
+              "id": "1741220157463379968",
+              "start": 17,
+              "username": "xialing253446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997281861706596386",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997249638416662548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @xialing253446 我出幻觉了没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1997240668448760154",
+        "created_at": "2025-12-06T10:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997249638416662548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741220157463379968",
+              "start": 0,
+              "username": "xialing253446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997249638416662548",
+        "in_reply_to_user_id": "1741220157463379968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997240668448760154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xialing253446 快进到Texas第二（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 148,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 255,
+          "like_count": 23930,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 4228
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T22:10:20.000Z",
+        "description": "配乐低手/计算机低手/提供免费药物咨询/日本語勉強中/LGBT or mtf friendly/耐o王/FOW参与者/日留/烂片爱好者/求互fo😭😭😭\n\n/特别承接---✝天国行超特急✝\n\n目前正在限时活动传奇药圈厨师",
+        "id": "1741220157463379968",
+        "location": "✝天国✝",
+        "name": "xialingXD🚥",
+        "pinned_tweet_id": "1994129849892688183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985039472711634944/HAf4aZYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 238,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 812
+        },
+        "username": "xialing253446",
+        "verified": false
+      }
+    ]
+  }
+}

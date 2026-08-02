@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2026913034896109743",
+    "created_at": "2026-02-27T00:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027172678369694176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751084762016681984",
+          "start": 0,
+          "username": "MTFxyn0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027172678369694176",
+    "in_reply_to_user_id": "1751084762016681984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026913034896109743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFxyn0331 不会血清素综合征的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026913015140872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEKpfIWcAAArqh.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2026913034896109743",
+        "created_at": "2026-02-27T00:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027172678369694176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751084762016681984",
+              "start": 0,
+              "username": "MTFxyn0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027172678369694176",
+        "in_reply_to_user_id": "1751084762016681984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026913034896109743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFxyn0331 不会血清素综合征的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026913015140872192"
+          ]
+        },
+        "author_id": "1751084762016681984",
+        "conversation_id": "2026913034896109743",
+        "created_at": "2026-02-26T06:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026913034896109743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A89xqhtyVv",
+              "end": 78,
+              "expanded_url": "https://x.com/MTFxyn0331/status/2026913034896109743/photo/1",
+              "media_key": "3_2026913015140872192",
+              "start": 55,
+              "url": "https://t.co/A89xqhtyVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026913034896109743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2066,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0耐药od24t愈美片，另加1g红霉素强化药效，不过我昨天吃了帕罗西汀，有可能会有血清素综合症，希望我不会死 https://t.co/A89xqhtyVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 77,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 54,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 224,
+          "like_count": 556,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:29:28.000Z",
+        "description": "就是那个未成年术后娘🥺支持免术换证丨 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️丨oder 丨雌二醇的选民丨 进步主义丨 mtxyn丨飞友丨我为自己是药娘而骄傲丨 永远的小药娘",
+        "id": "1751084762016681984",
+        "location": "药娘共和国",
+        "name": "小药娘紫喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1973922986895028479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806207869802708992/sB3Dkpjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5176,
+          "following_count": 1643,
+          "like_count": 10609,
+          "listed_count": 11,
+          "media_count": 438,
+          "tweet_count": 1680
+        },
+        "username": "MTFxyn0331",
+        "verified": false
+      }
+    ]
+  }
+}

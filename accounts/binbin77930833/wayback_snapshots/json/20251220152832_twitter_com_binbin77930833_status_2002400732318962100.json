@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2001796212694093898",
+    "created_at": "2025-12-20T15:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002400732318962100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002400732318962100",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001796212694093898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 买不买鸡粉😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2001796212694093898",
+        "created_at": "2025-12-20T15:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002400732318962100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002400732318962100",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001796212694093898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 买不买鸡粉😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2001796212694093898",
+        "created_at": "2025-12-18T23:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T00:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001796212694093898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001796212694093898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "能不能别老是带Chicken节奏啊。他是组wiki然后当wiki主性骚扰别人还发几把图发别人裸照了？还是当恶俗人开盒威胁并发某藤的大头照了？还是宣传苯海索害死人了？还是一直偷别人文案引流，在别人问的时候拉黑了？还是在osw继续乱搞被踢了？还是DDoS别人wiki自己跑去当皇帝了？还是装MtF骗钱了？还是在墙内建od群宣传各种危险药品了？还是肄业啃老骂亲妈了？还是搞背刺卷走文章账号域名服务器跑路了？还是赌博亏钱要跳楼了？他究竟做了什么值得你们这么黑？！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4754,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "能不能别老是带Chicken节奏啊。他是组wiki然后当wiki主性骚扰别人还发几把图发别人裸照了？还是当恶俗人开盒威胁并发某藤的大头照了？还是宣传苯海索害死人了？还是一直偷别人文案引流，在别人问的时候拉黑了？还是在osw继续乱搞被踢了？还是DDoS别人wiki自己跑去当皇帝了？还是装MtF骗钱了？还是在墙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 153,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 384,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 239
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2024944179986722924",
+    "created_at": "2026-02-21T03:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025044184668012589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Linyue7523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025044184668012589",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024944179986722924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linyue7523 傻逼青岛没话说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024944173984743425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoL_2RbgAEaYRr.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2024944179986722924",
+        "created_at": "2026-02-21T03:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025044184668012589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025044184668012589",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024944179986722924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 傻逼青岛没话说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024944173984743425"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2024944179986722924",
+        "created_at": "2026-02-20T20:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024944179986722924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsNSCoUkdl",
+              "end": 79,
+              "expanded_url": "https://x.com/Linyue7523/status/2024944179986722924/photo/1",
+              "media_key": "3_2024944173984743425",
+              "start": 56,
+              "url": "https://t.co/NsNSCoUkdl"
+            },
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/linyue7523/status/2024739218468258082",
+              "start": 80,
+              "url": "https://t.co/efAPVycv50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024944179986722924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8375,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024739218468258082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：2点报警+4点出警+4点半到达现场=凌晨四点报的警\n身份证号+姓名+家庭地址+手机号+qq=信息太少 https://t.co/NsNSCoUkdl https://t.co/efAPVycv50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 77,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 54,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 222,
+          "like_count": 527,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 1533,
+          "like_count": 20295,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 2917
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

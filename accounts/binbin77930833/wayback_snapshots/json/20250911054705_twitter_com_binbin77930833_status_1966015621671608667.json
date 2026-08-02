@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "1960194260487242141",
+    "created_at": "2025-09-11T05:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T06:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966015621671608667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857704460933648384",
+          "start": 0,
+          "username": "wumaundo91440"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966015621671608667",
+    "in_reply_to_user_id": "1857704460933648384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960194260487242141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wumaundo91440 姐姐的小猫跟姐姐一样可爱😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1960194257010266112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQCSovbkAA-0tH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "1960194260487242141",
+        "created_at": "2025-09-11T05:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966015621671608667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857704460933648384",
+              "start": 0,
+              "username": "wumaundo91440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966015621671608667",
+        "in_reply_to_user_id": "1857704460933648384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960194260487242141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumaundo91440 姐姐的小猫跟姐姐一样可爱😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960194257010266112"
+          ]
+        },
+        "author_id": "1857704460933648384",
+        "conversation_id": "1960194260487242141",
+        "created_at": "2025-08-26T04:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960194260487242141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3gXucHgcH",
+              "end": 26,
+              "expanded_url": "https://x.com/wumaundo91440/status/1960194260487242141/photo/1",
+              "media_key": "3_1960194257010266112",
+              "start": 3,
+              "url": "https://t.co/E3gXucHgcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960194260487242141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵？ https://t.co/E3gXucHgcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930153159617589253/9XSWlpXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 132,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T08:37:21.000Z",
+        "description": "自私，懒惰，虚伪，傲慢，背叛，仇恨，嫉妒，多疑，偏执，幸灾乐祸，心胸狭隘，令人作呕，这些是我灵魂的全部",
+        "id": "1857704460933648384",
+        "location": "20meters",
+        "name": "松松NO.8964",
+        "pinned_tweet_id": "1960194260487242141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938228030914101248/x_ZXE8Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 98,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 575
+        },
+        "username": "wumaundo91440",
+        "verified": false
+      }
+    ]
+  }
+}

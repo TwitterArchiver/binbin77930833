@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2042127057199792500",
+    "created_at": "2026-04-13T12:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043663042228178978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2043241572796628992",
+          "start": 0,
+          "username": "Zhen_Rainy"
+        },
+        {
+          "end": 22,
+          "id": "2010357366466990080",
+          "start": 12,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043663042228178978",
+    "in_reply_to_user_id": "2043241572796628992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043661356793262085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhen_Rainy @Kyanu_tut 摇了我8 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2042127057199792500",
+        "created_at": "2026-04-13T12:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043663042228178978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043241572796628992",
+              "start": 0,
+              "username": "Zhen_Rainy"
+            },
+            {
+              "end": 22,
+              "id": "2010357366466990080",
+              "start": 12,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043663042228178978",
+        "in_reply_to_user_id": "2043241572796628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043661356793262085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhen_Rainy @Kyanu_tut 摇了我8 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043241572796628992",
+        "conversation_id": "2042127057199792500",
+        "created_at": "2026-04-13T12:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043661356793262085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            },
+            {
+              "end": 26,
+              "id": "2010357366466990080",
+              "start": 16,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043661356793262085",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042176479996563481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 @Kyanu_tut 拉我行不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 273,
+          "like_count": 913,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T08:15:58.000Z",
+        "description": "inmyfeelings",
+        "id": "2043241572796628992",
+        "name": "蓁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043241782813806592/6WFW9hir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Zhen_Rainy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "完美无缺",
+        "id": "2010357366466990080",
+        "location": "您好，是约炮吗，可以，可能价格比较贵，因为我是处女",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2042297346260860972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 341,
+          "like_count": 483,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 1417
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

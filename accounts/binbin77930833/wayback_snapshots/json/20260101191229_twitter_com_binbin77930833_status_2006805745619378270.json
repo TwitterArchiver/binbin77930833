@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2006805745619378270",
+    "created_at": "2026-01-01T19:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006805745619378270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965531250447568896",
+          "start": 3,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006805745619378270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004762797037814039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingyin_8964: 转发以上两个帖子随机抽两人赠送一颗湮灭不包邮（会排除广告哥和纯黄推）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2006805745619378270",
+        "created_at": "2026-01-01T19:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006805745619378270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965531250447568896",
+              "start": 3,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006805745619378270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004762797037814039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingyin_8964: 转发以上两个帖子随机抽两人赠送一颗湮灭不包邮（会排除广告哥和纯黄推）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965531250447568896",
+        "conversation_id": "2004757201249075573",
+        "created_at": "2025-12-27T03:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004762797037814039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004762797037814039",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2337,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004757201249075573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转发以上两个帖子随机抽两人赠送一颗湮灭不包邮（会排除广告哥和纯黄推）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "08年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 166,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/freeodwiki参与者\n/独家阿片类策划药“湮灭”食品级pea及更多RC有售\n/姐姐❣️：@shuijiaozzz233\n/老公❤️：@Edward_8964\n/随意提问：https://t.co/Ko843XKMQP\n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "shuijiaozzz233"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 137,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 114,
+                "url": "https://t.co/Ko843XKMQP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/p3AyZyGkrj"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪52/88/288/520/1314",
+        "name": "和泉镜音能成为真正的RC之神吗",
+        "pinned_tweet_id": "2005224156351311887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 174,
+          "like_count": 2754,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/p3AyZyGkrj",
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

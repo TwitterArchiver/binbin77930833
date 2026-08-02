@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2019763432761790580",
+    "created_at": "2026-02-06T23:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T00:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019921548497588439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "taikongjile003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019921548497588439",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019763432761790580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile003 鸡哥你说你一直毕业我这好吗？！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019763428085407744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAekIv1bIAAGKN0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2019763432761790580",
+        "created_at": "2026-02-06T23:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T00:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019921548497588439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "taikongjile003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019921548497588439",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019763432761790580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile003 鸡哥你说你一直毕业我这好吗？！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019763428085407744"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019763432761790580",
+        "created_at": "2026-02-06T13:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019763432761790580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuOK7zrPnH",
+              "end": 23,
+              "expanded_url": "https://x.com/taikongjile003/status/2019763432761790580/photo/1",
+              "media_key": "3_2019763428085407744",
+              "start": 0,
+              "url": "https://t.co/tuOK7zrPnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019763432761790580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tuOK7zrPnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 88,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 65,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 218,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/AAUURL4h0r\n交流群：https://t.co/BojRmuPJrJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 26,
+                "expanded_url": "https://taikong.mom",
+                "start": 3,
+                "url": "https://t.co/AAUURL4h0r"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/BojRmuPJrJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom",
+                "start": 0,
+                "url": "https://t.co/AAUURL4h0r"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2019732708784775304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019730982350516224/BtvjrHz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 24,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/AAUURL4h0r",
+        "username": "taikongjile003",
+        "verified": false
+      }
+    ]
+  }
+}

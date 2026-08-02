@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2042176778329100649",
+    "created_at": "2026-04-09T09:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042176778329100649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikixnxn23527/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/kikixnxn23527/status/2042169861904969764",
+          "start": 43,
+          "url": "https://t.co/vm3r7qphQz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042176778329100649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042169861904969764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先哈 这个拙劣的演技不就批判啥了 一上来说进od群 这种人就算不是晶哥也脑子有病😡 https://t.co/vm3r7qphQz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2042176778329100649",
+        "created_at": "2026-04-09T09:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042176778329100649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikixnxn23527/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/kikixnxn23527/status/2042169861904969764",
+              "start": 43,
+              "url": "https://t.co/vm3r7qphQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042176778329100649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042169861904969764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先哈 这个拙劣的演技不就批判啥了 一上来说进od群 这种人就算不是晶哥也脑子有病😡 https://t.co/vm3r7qphQz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996819228515774464",
+        "conversation_id": "2042127057199792500",
+        "created_at": "2026-04-09T09:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042169861904969764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042169861904969764",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042129196605198563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 我刚睡醒，首先我不是你说的那个什么晶哥，你见过晶哥连端对端私密端都不会开的吗，第二这个账号是我朋友帮我弄的，他去外地了，只能自己玩，至于不发帖子玩怕被现实找上门，我哥们说别发露脸我就都没敢发，要加好友是因为有些私密问题不敢在这上面公开发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 268,
+          "like_count": 845,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T05:49:46.000Z",
+        "description": "",
+        "id": "1996819228515774464",
+        "name": "开开心心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996819328851927040/2JF-HzA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "kikixnxn23527",
+        "verified": false
+      }
+    ]
+  }
+}

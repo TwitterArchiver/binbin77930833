@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2046513175181631682",
+    "created_at": "2026-04-21T12:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046570257456959934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797804473416585216",
+          "start": 0,
+          "username": "nana_myosotis_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046570257456959934",
+    "in_reply_to_user_id": "1797804473416585216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046567141533733356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nana_myosotis_ 可以这么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2046513175181631682",
+        "created_at": "2026-04-21T12:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046570257456959934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797804473416585216",
+              "start": 0,
+              "username": "nana_myosotis_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046570257456959934",
+        "in_reply_to_user_id": "1797804473416585216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046567141533733356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nana_myosotis_ 可以这么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797804473416585216",
+        "conversation_id": "2046513175181631682",
+        "created_at": "2026-04-21T12:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046567141533733356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567141533733356",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046513175181631682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 加巴当晚饭 吃饱后起效（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 288,
+          "like_count": 1027,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T01:36:11.000Z",
+        "description": "叫我77｜全方面友好｜fo你就是好喜欢你！💗｜伤疤美学｜03｜药理药代学习中｜想和更多赛博网友贴贴｜❌顺直｜寿司郎全肯定｜这里是我的朋友圈🫶",
+        "id": "1797804473416585216",
+        "location": "中央特雷森学院",
+        "name": "新建文件夾7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983045281672507392/2OMkLIc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 38,
+          "like_count": 23,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 186
+        },
+        "username": "nana_myosotis_",
+        "verified": false
+      }
+    ]
+  }
+}

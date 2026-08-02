@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2006684916684304859",
+    "created_at": "2026-01-01T20:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T21:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006830021693014465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaze3"
+        },
+        {
+          "end": 29,
+          "id": "1868205822511288320",
+          "start": 13,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006830021693014465",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006706473611702692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaze3 @vicoOci_Olvidar 鸡哥连我都ban了\n难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2006684916684304859",
+        "created_at": "2026-01-01T20:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T21:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006830021693014465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 29,
+              "id": "1868205822511288320",
+              "start": 13,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006830021693014465",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006706473611702692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaze3 @vicoOci_Olvidar 鸡哥连我都ban了\n难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2006684916684304859",
+        "created_at": "2026-01-01T12:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006706473611702692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006706473611702692",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006684916684304859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 怎么都被鸡哥b了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "08年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 166,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "百八十無常 #井宿三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004438739473645568/deoXj6yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 719,
+          "like_count": 7486,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2585
+        },
+        "username": "misumikaze3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "本公司提示 吸烟有害健康 请勿在禁烟场所吸烟 尽早戒烟有益健康 戒烟可减少对健康的伤害",
+        "id": "1868205822511288320",
+        "location": "我来自我爸金叶",
+        "name": "万宝胃",
+        "pinned_tweet_id": "1995735816644055184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005423161458954240/F8ZcPAiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4398,
+          "following_count": 285,
+          "like_count": 23297,
+          "listed_count": 13,
+          "media_count": 956,
+          "tweet_count": 13636
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

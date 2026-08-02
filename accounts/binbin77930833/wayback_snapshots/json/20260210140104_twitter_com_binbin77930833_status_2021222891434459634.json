@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2021181818561560838",
+    "created_at": "2026-02-10T14:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T15:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021222891434459634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781137539581255680",
+          "start": 0,
+          "username": "yuyi1718193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021222891434459634",
+    "in_reply_to_user_id": "1781137539581255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021181818561560838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyi1718193 啥呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021181815780933637",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyuJxwaAAURs4G.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2021181818561560838",
+        "created_at": "2026-02-10T14:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021222891434459634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781137539581255680",
+              "start": 0,
+              "username": "yuyi1718193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021222891434459634",
+        "in_reply_to_user_id": "1781137539581255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021181818561560838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyi1718193 啥呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021181815780933637"
+          ]
+        },
+        "author_id": "1781137539581255680",
+        "conversation_id": "2021181818561560838",
+        "created_at": "2026-02-10T11:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021181818561560838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vp5oCpVc81",
+              "end": 37,
+              "expanded_url": "https://x.com/yuyi1718193/status/2021181818561560838/photo/1",
+              "media_key": "3_2021181815780933637",
+              "start": 14,
+              "url": "https://t.co/Vp5oCpVc81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021181818561560838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被发现副业了所以哪来的傻逼 https://t.co/Vp5oCpVc81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 88,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 65,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 219,
+          "like_count": 465,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T01:47:56.000Z",
+        "description": "mtf | 12年173cm药娘|性别认知障碍|双性恋|《别当欧尼酱》| 无证含糖|坐标河南|平时会有点小颠，喜欢搞抽象｜早晚没钱饿死｜妈妈@xiazixuan520｜新妈妈@xynmaomao｜最好的精神支柱@yuyou2859287112\n“前天遇到了兔子，昨天遇到了小鹿，而今天遇到了你”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiazixuan520"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "xynmaomao"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "yuyou2859287112"
+              }
+            ]
+          }
+        },
+        "id": "1781137539581255680",
+        "location": "河南",
+        "name": "夏雨晴🍥",
+        "pinned_tweet_id": "2015862385383551124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013356311748956160/WJSS4Ory_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 63,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 290
+        },
+        "username": "yuyi1718193",
+        "verified": false
+      }
+    ]
+  }
+}

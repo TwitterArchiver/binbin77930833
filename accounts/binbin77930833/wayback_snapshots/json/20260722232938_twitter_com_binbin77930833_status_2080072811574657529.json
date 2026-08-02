@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2079561231040385026",
+    "created_at": "2026-07-22T23:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080072811574657529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966372495440941056",
+          "start": 0,
+          "username": "hw14vAWcAK58107"
+        },
+        {
+          "end": 24,
+          "id": "759683995563094017",
+          "start": 17,
+          "username": "tarkov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080072811574657529",
+    "in_reply_to_user_id": "1966372495440941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080069863327068221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hw14vAWcAK58107 @tarkov 我懒得用英文骂他了 而且我英语也不好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2079561231040385026",
+        "created_at": "2026-07-22T23:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080072811574657529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966372495440941056",
+              "start": 0,
+              "username": "hw14vAWcAK58107"
+            },
+            {
+              "end": 24,
+              "id": "759683995563094017",
+              "start": 17,
+              "username": "tarkov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080072811574657529",
+        "in_reply_to_user_id": "1966372495440941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080069863327068221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hw14vAWcAK58107 @tarkov 我懒得用英文骂他了 而且我英语也不好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966372495440941056",
+        "conversation_id": "2079561231040385026",
+        "created_at": "2026-07-22T23:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080069863327068221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            },
+            {
+              "end": 23,
+              "id": "759683995563094017",
+              "start": 16,
+              "username": "tarkov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080069863327068221",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079834328037740551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 @tarkov 没有用英文不是很认可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 348,
+          "like_count": 1585,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:25:25.000Z",
+        "description": "无人在意的音游人|and不知道怎么写简介遂摆烂的|求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ask83110",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ask83110",
+                "start": 0,
+                "url": "https://t.co/1BlIGSzGaL"
+              }
+            ]
+          }
+        },
+        "id": "1966372495440941056",
+        "location": "Koto-ku, Tokyo",
+        "name": "﹋o﹋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044483905995350016/eVpd5b6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 281,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/1BlIGSzGaL",
+        "username": "hw14vAWcAK58107",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-31T09:35:54.000Z",
+        "description": "Escape from Tarkov is a hardcore realistic story-driven FPS with RPG elements developed by @bstategames.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "bstategames"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "escapefromtarkov.com",
+                "end": 23,
+                "expanded_url": "https://www.escapefromtarkov.com/",
+                "start": 0,
+                "url": "https://t.co/2a61OUsd5W"
+              }
+            ]
+          }
+        },
+        "id": "759683995563094017",
+        "name": "Escape from Tarkov",
+        "pinned_tweet_id": "2067608325085143407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058838438900617216/3MT4g_A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530758,
+          "following_count": 119,
+          "like_count": 6450,
+          "listed_count": 894,
+          "media_count": 3466,
+          "tweet_count": 10557
+        },
+        "url": "https://t.co/2a61OUsd5W",
+        "username": "tarkov",
+        "verified": true
+      }
+    ]
+  }
+}

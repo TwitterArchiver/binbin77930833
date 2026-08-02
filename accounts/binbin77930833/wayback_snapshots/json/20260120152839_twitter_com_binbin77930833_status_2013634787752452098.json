@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2013613944095621584",
+    "created_at": "2026-01-20T15:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013634787752452098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781137539581255680",
+          "start": 0,
+          "username": "yuyi1718193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013634787752452098",
+    "in_reply_to_user_id": "1781137539581255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013634467035050335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyi1718193 打错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2013613944095621584",
+        "created_at": "2026-01-20T15:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013634787752452098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781137539581255680",
+              "start": 0,
+              "username": "yuyi1718193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013634787752452098",
+        "in_reply_to_user_id": "1781137539581255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013634467035050335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyi1718193 打错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781137539581255680",
+        "conversation_id": "2013613944095621584",
+        "created_at": "2026-01-20T15:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013634467035050335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013634467035050335",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013634264466640926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 88,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 65,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 208,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T01:47:56.000Z",
+        "description": "mtf | 12年173cm药娘|性别认知障碍|双性恋|《别当欧尼酱》| 无证含糖|坐标河南|平时会有点小颠，喜欢搞抽象｜早晚没钱饿死｜妈妈@xiazixuan520｜新妈妈@xynmaomao｜最好的精神支柱@yuyou2859287112\n“前天遇到了兔子，昨天遇到了小鹿，而今天遇到了你”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiazixuan520"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "xynmaomao"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "yuyou2859287112"
+              }
+            ]
+          }
+        },
+        "id": "1781137539581255680",
+        "location": "河南",
+        "name": "夏雨晴🍥",
+        "pinned_tweet_id": "2012915623064641986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013356311748956160/WJSS4Ory_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 44,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 153
+        },
+        "username": "yuyi1718193",
+        "verified": false
+      }
+    ]
+  }
+}

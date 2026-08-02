@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2072223997488660925",
+    "created_at": "2026-07-01T07:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072223997488660925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1126507338024620033",
+          "start": 3,
+          "username": "x_spidekawaii_x"
+        },
+        {
+          "end": 37,
+          "id": "1313122922886643714",
+          "start": 21,
+          "username": "x_angelkawaii_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072223997488660925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070899708432888085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_spidekawaii_x: @x_angelkawaii_x 今まで救ってくれてありがとう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2072223997488660925",
+        "created_at": "2026-07-01T07:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072223997488660925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1126507338024620033",
+              "start": 3,
+              "username": "x_spidekawaii_x"
+            },
+            {
+              "end": 37,
+              "id": "1313122922886643714",
+              "start": 21,
+              "username": "x_angelkawaii_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072223997488660925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070899708432888085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_spidekawaii_x: @x_angelkawaii_x 今まで救ってくれてありがとう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126507338024620033",
+        "conversation_id": "2070899549879886072",
+        "created_at": "2026-06-27T15:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070899708432888085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313122922886643714",
+              "start": 0,
+              "username": "x_angelkawaii_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070899708432888085",
+        "in_reply_to_user_id": "1313122922886643714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10257,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070899549879886072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_angelkawaii_x 今まで救ってくれてありがとう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 332,
+          "like_count": 1385,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-09T15:20:53.000Z",
+        "description": "蝶に憧れてその軌跡を追い続ける蛾◆fanbox:https://t.co/oRkD9LxFX3 ◆https://t.co/2ZpJXkWtho ◆pixiv:https://t.co/nDrNcLfqj8 ◆イラストのご依頼はDMで対応しているよ(受付中)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spidekawaii.fanbox.cc",
+                "end": 47,
+                "expanded_url": "http://spidekawaii.fanbox.cc/",
+                "start": 24,
+                "url": "https://t.co/oRkD9LxFX3"
+              },
+              {
+                "display_url": "skeb.jp/@x_spidekawaii…",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@x_spidekawaii_x",
+                "start": 49,
+                "url": "https://t.co/2ZpJXkWtho"
+              },
+              {
+                "display_url": "pixiv.net/users/43450519",
+                "end": 103,
+                "expanded_url": "https://www.pixiv.net/users/43450519",
+                "start": 80,
+                "url": "https://t.co/nDrNcLfqj8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/GOWTA7TBMQNP?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/MN18Q6E4Du"
+              }
+            ]
+          }
+        },
+        "id": "1126507338024620033",
+        "location": "静寂より",
+        "name": "🎀超絶最やみ🎀堕天使ちゃん",
+        "pinned_tweet_id": "2066454037596357079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045536430605361153/b_SbuuaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34650,
+          "following_count": 191,
+          "like_count": 85039,
+          "listed_count": 156,
+          "media_count": 1259,
+          "tweet_count": 16368
+        },
+        "url": "https://t.co/MN18Q6E4Du",
+        "username": "x_spidekawaii_x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540467,
+          "following_count": 1,
+          "like_count": 18,
+          "listed_count": 1166,
+          "media_count": 799,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

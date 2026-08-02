@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005300475198050304"
+      ]
+    },
+    "author_id": "1775522951749591040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2005300495347503176",
+    "created_at": "2025-12-28T15:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005300495347503176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wJF6FxnbqH",
+          "end": 29,
+          "expanded_url": "https://x.com/binbin77930833/status/2005300495347503176/photo/1",
+          "media_key": "3_2005300475198050304",
+          "start": 6,
+          "url": "https://t.co/wJF6FxnbqH"
+        },
+        {
+          "display_url": "x.com/binbin77930833…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/binbin77930833/status/2004920828316774759",
+          "start": 30,
+          "url": "https://t.co/3G9EDCvBvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005300495347503176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004920828316774759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "魔爪阿片😋 https://t.co/wJF6FxnbqH https://t.co/3G9EDCvBvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005300475198050304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RCKFwaEAAIZjs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005300475198050304"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005300495347503176",
+        "created_at": "2025-12-28T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005300495347503176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJF6FxnbqH",
+              "end": 29,
+              "expanded_url": "https://x.com/binbin77930833/status/2005300495347503176/photo/1",
+              "media_key": "3_2005300475198050304",
+              "start": 6,
+              "url": "https://t.co/wJF6FxnbqH"
+            },
+            {
+              "display_url": "x.com/binbin77930833…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/binbin77930833/status/2004920828316774759",
+              "start": 30,
+              "url": "https://t.co/3G9EDCvBvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005300495347503176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004920828316774759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魔爪阿片😋 https://t.co/wJF6FxnbqH https://t.co/3G9EDCvBvk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2004920828316774759",
+        "created_at": "2025-12-27T14:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004920828316774759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004920828316774759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "35t甘草片 我要飞起来了 我爱阿片，我是阿片小鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 160,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068372213833891841"
+      ],
+      "media_source_tweet_id": [
+        "2068372285644583347"
+      ]
+    },
+    "author_id": "1775522951749591040",
+    "conversation_id": "2068773015723401350",
+    "created_at": "2026-06-21T19:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068773015723401350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1522094771136831488",
+          "start": 3,
+          "username": "Raincandy_1937"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSp6yK6hDU",
+          "end": 73,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2068372285644583347/photo/1",
+          "media_key": "3_2068372213833891841",
+          "start": 50,
+          "url": "https://t.co/lSp6yK6hDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068773015723401350",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068372285644583347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raincandy_1937: I LOVE I LOVE ILOOOOOOOVE YOU https://t.co/lSp6yK6hDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2068372213833891841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRVkdzbgAEXJDn.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068372213833891841"
+          ],
+          "media_source_tweet_id": [
+            "2068372285644583347"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2068773015723401350",
+        "created_at": "2026-06-21T19:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068773015723401350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1522094771136831488",
+              "start": 3,
+              "username": "Raincandy_1937"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSp6yK6hDU",
+              "end": 73,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2068372285644583347/photo/1",
+              "media_key": "3_2068372213833891841",
+              "start": 50,
+              "url": "https://t.co/lSp6yK6hDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068773015723401350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068372285644583347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raincandy_1937: I LOVE I LOVE ILOOOOOOOVE YOU https://t.co/lSp6yK6hDU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068372213833891841"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2068372285644583347",
+        "created_at": "2026-06-20T16:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068372285644583347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSp6yK6hDU",
+              "end": 53,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2068372285644583347/photo/1",
+              "media_key": "3_2068372213833891841",
+              "start": 30,
+              "url": "https://t.co/lSp6yK6hDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068372285644583347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 19248,
+          "like_count": 2800,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "I LOVE I LOVE ILOOOOOOOVE YOU https://t.co/lSp6yK6hDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 330,
+          "like_count": 1349,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 1775,
+          "like_count": 16962,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 7378
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

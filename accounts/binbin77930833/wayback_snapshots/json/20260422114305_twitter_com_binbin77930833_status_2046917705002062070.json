@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2046864360249995556",
+    "created_at": "2026-04-22T11:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046917705002062070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1776581654938886144",
+          "start": 0,
+          "username": "wavedsu"
+        },
+        {
+          "end": 19,
+          "id": "1639816523190763521",
+          "start": 9,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046917705002062070",
+    "in_reply_to_user_id": "1776581654938886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046914992893727034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wavedsu @ggdxfulan 我见过每个药店8块钱一瓶的甘草片扫荡一个城市的 所以说我怕oder去转像这种极端药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2046864360249995556",
+        "created_at": "2026-04-22T11:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046917705002062070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1776581654938886144",
+              "start": 0,
+              "username": "wavedsu"
+            },
+            {
+              "end": 19,
+              "id": "1639816523190763521",
+              "start": 9,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046917705002062070",
+        "in_reply_to_user_id": "1776581654938886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046914992893727034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wavedsu @ggdxfulan 我见过每个药店8块钱一瓶的甘草片扫荡一个城市的 所以说我怕oder去转像这种极端药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776581654938886144",
+        "conversation_id": "2046864360249995556",
+        "created_at": "2026-04-22T11:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046914992893727034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 26,
+              "id": "1775522951749591040",
+              "start": 11,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046914992893727034",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046912018402402799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan @binbin77930833 tb和jd可以买到含有双氢可待因的复方制剂 比如alinamin 同时可以考虑买日本单方右美メジコン（好像是单方） 问题就是价格较贵以及运输比较久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 290,
+          "like_count": 1035,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T12:04:22.000Z",
+        "description": "CN/EN/JP | China / US | games&cs | 如果发现你的帖子很有意思 我也会留下很有意思的回复口牙 看到同类会回fo喵ᶻz ₍ _ _ ₎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/S8XkOX0elr"
+              }
+            ]
+          }
+        },
+        "id": "1776581654938886144",
+        "location": "壹世壞-珍珠世界",
+        "name": "wave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028419933504520193/cbZk4e7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 396,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/S8XkOX0elr",
+        "username": "wavedsu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17126,
+          "following_count": 503,
+          "like_count": 35600,
+          "listed_count": 32,
+          "media_count": 3729,
+          "tweet_count": 11549
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2009671405944877207",
+    "created_at": "2026-01-09T16:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009671405944877207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 42,
+          "id": "1959602969034539008",
+          "start": 27,
+          "username": "taikongjile666"
+        },
+        {
+          "end": 55,
+          "id": "1960187829687885824",
+          "start": 43,
+          "username": "taikongjile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cleverff050755…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/cleverff050755/status/2009471462223302988",
+          "start": 56,
+          "url": "https://t.co/YJC0DXCTg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009671405944877207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009471462223302988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鸡哥的背刺行为属实让人恶心\n阴险狡诈的人不配在o圈混\n@taikongjile666 @taikongjile https://t.co/YJC0DXCTg5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2009471443013390340",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MToXsa0AQbRhE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2009671405944877207",
+        "created_at": "2026-01-09T16:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009671405944877207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1959602969034539008",
+              "start": 27,
+              "username": "taikongjile666"
+            },
+            {
+              "end": 55,
+              "id": "1960187829687885824",
+              "start": 43,
+              "username": "taikongjile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cleverff050755…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/cleverff050755/status/2009471462223302988",
+              "start": 56,
+              "url": "https://t.co/YJC0DXCTg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009671405944877207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009471462223302988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸡哥的背刺行为属实让人恶心\n阴险狡诈的人不配在o圈混\n@taikongjile666 @taikongjile https://t.co/YJC0DXCTg5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009471443013390340"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2009471462223302988",
+        "created_at": "2026-01-09T03:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009471462223302988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QQoxJjpGC",
+              "end": 59,
+              "expanded_url": "https://x.com/CleverFf050755/status/2009471462223302988/photo/1",
+              "media_key": "3_2009471443013390340",
+              "start": 36,
+              "url": "https://t.co/1QQoxJjpGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009471462223302988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2266,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不知鸡哥在得知沐雨离开以后会不会对曾经这位并肩作战的战友感到一丝悲伤呢 https://t.co/1QQoxJjpGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 178,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:05:35.000Z",
+        "description": "官方网站:https://t.co/B30SyYDC0Y\n交流群:https://t.co/S8Izp7ElMH\nDC交流群：https://t.co/eb9gzQ5ULX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/B30SyYDC0Y"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/S8Izp7ElMH"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/eb9gzQ5ULX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/VXvh5Uus8T"
+              }
+            ]
+          }
+        },
+        "id": "1959602969034539008",
+        "location": "天国",
+        "name": "太空极乐百科2.0🍥",
+        "pinned_tweet_id": "2009668687549346140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008127469552119808/5U_rzOef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 137,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/VXvh5Uus8T",
+        "username": "taikongjile666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2004064227003416995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 1677,
+          "like_count": 1066,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 234,
+          "like_count": 178,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

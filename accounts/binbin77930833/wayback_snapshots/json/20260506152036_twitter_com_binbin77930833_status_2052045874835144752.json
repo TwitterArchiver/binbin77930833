@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2052043881148264841",
+    "created_at": "2026-05-06T15:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052045874835144752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024808750268461056",
+          "start": 0,
+          "username": "DiyanRanco2179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052045874835144752",
+    "in_reply_to_user_id": "2024808750268461056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052043881148264841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DiyanRanco2179 李出生两头吃利润 纯傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052043869584568321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpTBvYbMAEriPx.jpg",
+        "width": 922
+      },
+      {
+        "height": 792,
+        "media_key": "3_2052043869588783104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpTBvZbgAAnKSU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2052043870192754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpTBxpbYAAbFSE.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2052043881148264841",
+        "created_at": "2026-05-06T15:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052045874835144752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024808750268461056",
+              "start": 0,
+              "username": "DiyanRanco2179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052045874835144752",
+        "in_reply_to_user_id": "2024808750268461056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052043881148264841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiyanRanco2179 李出生两头吃利润 纯傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052043869584568321",
+            "3_2052043869588783104",
+            "3_2052043870192754688"
+          ]
+        },
+        "author_id": "2024808750268461056",
+        "conversation_id": "2052043881148264841",
+        "created_at": "2026-05-06T15:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052043881148264841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5aveK8yvB",
+              "end": 45,
+              "expanded_url": "https://x.com/DiyanRanco2179/status/2052043881148264841/photo/1",
+              "media_key": "3_2052043869584568321",
+              "start": 22,
+              "url": "https://t.co/z5aveK8yvB"
+            },
+            {
+              "display_url": "pic.x.com/z5aveK8yvB",
+              "end": 45,
+              "expanded_url": "https://x.com/DiyanRanco2179/status/2052043881148264841/photo/1",
+              "media_key": "3_2052043869588783104",
+              "start": 22,
+              "url": "https://t.co/z5aveK8yvB"
+            },
+            {
+              "display_url": "pic.x.com/z5aveK8yvB",
+              "end": 45,
+              "expanded_url": "https://x.com/DiyanRanco2179/status/2052043881148264841/photo/1",
+              "media_key": "3_2052043870192754688",
+              "start": 22,
+              "url": "https://t.co/z5aveK8yvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052043881148264841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "问一下各位推友们，到底都是在为什么而活着？ https://t.co/z5aveK8yvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 313,
+          "like_count": 1158,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T11:30:11.000Z",
+        "description": "",
+        "id": "2024808750268461056",
+        "name": "Diyan Ranco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025977361901182978/Gw6FLxkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "username": "DiyanRanco2179",
+        "verified": false
+      }
+    ]
+  }
+}

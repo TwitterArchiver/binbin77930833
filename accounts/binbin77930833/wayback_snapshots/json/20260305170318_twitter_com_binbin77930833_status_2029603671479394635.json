@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2029563871615488283",
+    "created_at": "2026-03-05T17:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T18:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029603671479394635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781137539581255680",
+          "start": 0,
+          "username": "yuyi1718193"
+        },
+        {
+          "end": 24,
+          "id": "1867090453226721280",
+          "start": 13,
+          "username": "xiaoyieQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029603671479394635",
+    "in_reply_to_user_id": "1781137539581255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029597789488107563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyi1718193 @xiaoyieQAQ 主播"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2029563871615488283",
+        "created_at": "2026-03-05T17:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029603671479394635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781137539581255680",
+              "start": 0,
+              "username": "yuyi1718193"
+            },
+            {
+              "end": 24,
+              "id": "1867090453226721280",
+              "start": 13,
+              "username": "xiaoyieQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029603671479394635",
+        "in_reply_to_user_id": "1781137539581255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029597789488107563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyi1718193 @xiaoyieQAQ 主播"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781137539581255680",
+        "conversation_id": "2029563871615488283",
+        "created_at": "2026-03-05T16:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029597789488107563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867090453226721280",
+              "start": 0,
+              "username": "xiaoyieQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029597789488107563",
+        "in_reply_to_user_id": "1867090453226721280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029563871615488283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyieQAQ 主播，主播那什么时候带我吸点什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 77,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 54,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 235,
+          "like_count": 588,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T01:47:56.000Z",
+        "description": "mtf | 12年173cm药娘|性别认知障碍|双性恋|《别当欧尼酱》| 无证含糖|坐标河南|平时会有点小颠，喜欢搞抽象｜早晚没钱饿死｜妈妈@xiazixuan520｜新妈妈@xynmaomao｜最好的精神支柱@yuyou2859287112｜芙卡单推\n“前天遇到了兔子，昨天遇到了小鹿，而今天遇到了你”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiazixuan520"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "xynmaomao"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "yuyou2859287112"
+              }
+            ]
+          }
+        },
+        "id": "1781137539581255680",
+        "location": "河南",
+        "name": "夏雨晴🍥",
+        "pinned_tweet_id": "2015862385383551124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013356311748956160/WJSS4Ory_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 76,
+          "like_count": 80,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 356
+        },
+        "username": "yuyi1718193",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T06:13:58.000Z",
+        "description": "｜12年mtf｜已精卫｜已扭转｜@xiaoiQAQ｜都会fo的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "xiaoiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/1gjRmSZXjQ"
+              }
+            ]
+          }
+        },
+        "id": "1867090453226721280",
+        "location": "✝️OD✝️",
+        "name": "杂鱼洛雨🍥",
+        "pinned_tweet_id": "1912881731172241581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946657647949717504/jyBSNOCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 495,
+          "like_count": 5699,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/1gjRmSZXjQ",
+        "username": "xiaoyieQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933590456732168192"
+      ]
+    },
+    "author_id": "1775522951749591040",
+    "conversation_id": "1933590465015918639",
+    "created_at": "2025-06-13T18:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T19:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933590465015918639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d5Ffy5ojXS",
+          "end": 41,
+          "expanded_url": "https://x.com/binbin77930833/status/1933590465015918639/photo/1",
+          "media_key": "3_1933590456732168192",
+          "start": 18,
+          "url": "https://t.co/d5Ffy5ojXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933590465015918639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宣传一下 (od/mtf/ftm) https://t.co/d5Ffy5ojXS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_1933590456732168192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtV-RpqbMAAO9In.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933590456732168192"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "1933590465015918639",
+        "created_at": "2025-06-13T18:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T19:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933590465015918639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5Ffy5ojXS",
+              "end": 41,
+              "expanded_url": "https://x.com/binbin77930833/status/1933590465015918639/photo/1",
+              "media_key": "3_1933590456732168192",
+              "start": 18,
+              "url": "https://t.co/d5Ffy5ojXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933590465015918639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宣传一下 (od/mtf/ftm) https://t.co/d5Ffy5ojXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "",
+        "id": "1775522951749591040",
+        "location": "東京 港区",
+        "name": "偏爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930153159617589253/9XSWlpXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 88,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

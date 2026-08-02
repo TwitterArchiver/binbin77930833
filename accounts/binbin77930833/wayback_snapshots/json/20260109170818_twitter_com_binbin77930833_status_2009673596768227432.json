@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2009673463305572632",
+    "created_at": "2026-01-09T17:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T18:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009673596768227432"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009673596768227432",
+    "in_reply_to_user_id": "1775522951749591040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009673463305572632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗取他人服用化工原料"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2009673415654027267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PLUuaasAMdj4e.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2009673415654027266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PLUuaasAIrasD.jpg",
+        "width": 1433
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2009673415708553221",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PLUunasAU54h1.jpg",
+        "width": 1267
+      },
+      {
+        "height": 853,
+        "media_key": "3_2009673415654014976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PLUuaagAAQhdI.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2009673463305572632",
+        "created_at": "2026-01-09T17:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009673596768227432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009673596768227432",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009673463305572632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗取他人服用化工原料"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009673415654027267",
+            "3_2009673415654027266",
+            "3_2009673415708553221",
+            "3_2009673415654014976"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2009673463305572632",
+        "created_at": "2026-01-09T17:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009673463305572632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1960187829687885824",
+              "start": 18,
+              "username": "taikongjile"
+            },
+            {
+              "end": 46,
+              "id": "1959602969034539008",
+              "start": 31,
+              "username": "taikongjile666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsyzNIUA3o",
+              "end": 70,
+              "expanded_url": "https://x.com/binbin77930833/status/2009673463305572632/photo/1",
+              "media_key": "3_2009673415654027267",
+              "start": 47,
+              "url": "https://t.co/gsyzNIUA3o"
+            },
+            {
+              "display_url": "pic.x.com/gsyzNIUA3o",
+              "end": 70,
+              "expanded_url": "https://x.com/binbin77930833/status/2009673463305572632/photo/1",
+              "media_key": "3_2009673415654027266",
+              "start": 47,
+              "url": "https://t.co/gsyzNIUA3o"
+            },
+            {
+              "display_url": "pic.x.com/gsyzNIUA3o",
+              "end": 70,
+              "expanded_url": "https://x.com/binbin77930833/status/2009673463305572632/photo/1",
+              "media_key": "3_2009673415708553221",
+              "start": 47,
+              "url": "https://t.co/gsyzNIUA3o"
+            },
+            {
+              "display_url": "pic.x.com/gsyzNIUA3o",
+              "end": 70,
+              "expanded_url": "https://x.com/binbin77930833/status/2009673463305572632/photo/1",
+              "media_key": "3_2009673415654014976",
+              "start": 47,
+              "url": "https://t.co/gsyzNIUA3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009673463305572632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥早期迷惑行为 骗取地雷女要求做爱@taikongjile @taikongjile666 https://t.co/gsyzNIUA3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 178,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

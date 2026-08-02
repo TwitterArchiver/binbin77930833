@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2026712244256690567",
+    "created_at": "2026-03-03T17:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028881353828385230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        },
+        {
+          "end": 22,
+          "id": "1927540242736680960",
+          "start": 10,
+          "username": "bdxiaoxiong"
+        },
+        {
+          "end": 37,
+          "id": "1742074707787300864",
+          "start": 23,
+          "username": "HhhHhh1668446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028881353828385230",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027057305637056984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD @bdxiaoxiong @HhhHhh1668446 跟她认识许久 无数次救她于危难中 我没有想到这一次这么突然 那天打出去的电话是她父母的哭声 还有她的一些丑照 可惜终究不复返 留下的只有一段段曾经证明她来过的痕迹……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027057302231228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGN4GbaoAAIeA4.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027057302176772096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGN4GObsAA-6NW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027057302176690176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGN4GOacAAJvER.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027057302449311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGN4HPaUAASXby.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2026712244256690567",
+        "created_at": "2026-03-03T17:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028881353828385230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            },
+            {
+              "end": 22,
+              "id": "1927540242736680960",
+              "start": 10,
+              "username": "bdxiaoxiong"
+            },
+            {
+              "end": 37,
+              "id": "1742074707787300864",
+              "start": 23,
+              "username": "HhhHhh1668446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028881353828385230",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027057305637056984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD @bdxiaoxiong @HhhHhh1668446 跟她认识许久 无数次救她于危难中 我没有想到这一次这么突然 那天打出去的电话是她父母的哭声 还有她的一些丑照 可惜终究不复返 留下的只有一段段曾经证明她来过的痕迹……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027057302231228416",
+            "3_2027057302176772096",
+            "3_2027057302176690176",
+            "3_2027057302449311744"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2026712244256690567",
+        "created_at": "2026-02-26T16:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027057305637056984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927540242736680960",
+              "start": 0,
+              "username": "bdxiaoxiong"
+            },
+            {
+              "end": 27,
+              "id": "1742074707787300864",
+              "start": 13,
+              "username": "HhhHhh1668446"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxkItkNine",
+              "end": 164,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027057305637056984/photo/1",
+              "media_key": "3_2027057302231228416",
+              "start": 141,
+              "url": "https://t.co/QxkItkNine"
+            },
+            {
+              "display_url": "pic.x.com/QxkItkNine",
+              "end": 164,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027057305637056984/photo/1",
+              "media_key": "3_2027057302176772096",
+              "start": 141,
+              "url": "https://t.co/QxkItkNine"
+            },
+            {
+              "display_url": "pic.x.com/QxkItkNine",
+              "end": 164,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027057305637056984/photo/1",
+              "media_key": "3_2027057302176690176",
+              "start": 141,
+              "url": "https://t.co/QxkItkNine"
+            },
+            {
+              "display_url": "pic.x.com/QxkItkNine",
+              "end": 164,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027057305637056984/photo/1",
+              "media_key": "3_2027057302449311744",
+              "start": 141,
+              "url": "https://t.co/QxkItkNine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027057305637056984",
+        "in_reply_to_user_id": "1927540242736680960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3261,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026712244256690567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bdxiaoxiong @HhhHhh1668446 节哀...\n我以前认识这位姐姐，和她聊过。我们是在一个QQ群里认识的，她曾向我倾诉过痛苦，我当时给她发了邓紫棋的演唱会视频，因为我知道歌声和信仰能给人力量。\n愿主耶稣接她到天家，不再有痛苦，下辈子能做一个被家人疼爱的可爱女孩 https://t.co/QxkItkNine"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 77,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 54,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 222,
+          "like_count": 577,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "翻车顺男 2025.8-2025.12(含糖but cease HRT)/友跨🏳️‍⚧️/femboy/翻唱歌手/喜欢的歌手是G.E.M.邓紫棋/WARD UNLIMITED #ZARD @gemoving",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ZARD"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "gemoving"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014717131527737344/s9lhHAUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 1236,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T01:40:03.000Z",
+        "description": "这里是小熊（本体是猫猫，不是熊啦，只是名字叫小熊），坐标无锡\n｜无证含糖｜06年mtf｜家暴党｜玉玉｜脆皮猫猫Ⅰ「にゃんは自分らしく、ふわふわでいいのです！」\n欢迎同类贴贴♡",
+        "id": "1927540242736680960",
+        "location": "无锡",
+        "name": "月虹ねこ🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024836701106130944/EBTywHtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 68,
+          "like_count": 2157,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 277
+        },
+        "username": "bdxiaoxiong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T06:45:59.000Z",
+        "description": "mtf，无证含糖，是个被性别困扰的女孩子，渴望被怜爱～",
+        "id": "1742074707787300864",
+        "name": "渴望被怜爱的屑豹豹♥~🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971925454165889030/xnoIB1x0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 120,
+          "like_count": 137,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "HhhHhh1668446",
+        "verified": false
+      }
+    ]
+  }
+}

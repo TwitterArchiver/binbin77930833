@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "1993969040923218200",
+    "created_at": "2025-11-27T09:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993969040923218200"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993969040923218200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我呢，又回到了自己所在的城市，孤独的一个人，痛苦的活着，生活的意义到底是什么呀！我心好痛，为什么，破碎的家庭，我早就不想活了，只是有未完成的使命而已，完成后，我自会告别所有人，谢谢你们曾帮助过我，谢谢你们……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "1993969040923218200",
+        "created_at": "2025-11-27T09:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993969040923218200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993969040923218200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我呢，又回到了自己所在的城市，孤独的一个人，痛苦的活着，生活的意义到底是什么呀！我心好痛，为什么，破碎的家庭，我早就不想活了，只是有未完成的使命而已，完成后，我自会告别所有人，谢谢你们曾帮助过我，谢谢你们……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 145,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

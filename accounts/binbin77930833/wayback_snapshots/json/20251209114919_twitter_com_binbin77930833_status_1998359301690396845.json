@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Juice WRLD rapper",
+          "id": "1155881136624504833",
+          "name": "Juice WRLD"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Juice WRLD rapper",
+          "id": "1155881136624504833",
+          "name": "Juice WRLD"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Juice WRLD rapper",
+          "id": "1155881136624504833",
+          "name": "Juice WRLD"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1998359301690396845",
+    "created_at": "2025-12-09T11:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998359301690396845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3676932858",
+          "start": 3,
+          "username": "JuiceWorlddd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998359301690396845",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4453
+    },
+    "referenced_tweets": [
+      {
+        "id": "1198115886990675970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuiceWorlddd: Lost a lot of ppl pray I see em in paradise. Ima make me proud wherever they are"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Juice WRLD rapper",
+              "id": "1155881136624504833",
+              "name": "Juice WRLD"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Juice WRLD rapper",
+              "id": "1155881136624504833",
+              "name": "Juice WRLD"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Juice WRLD rapper",
+              "id": "1155881136624504833",
+              "name": "Juice WRLD"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1998359301690396845",
+        "created_at": "2025-12-09T11:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998359301690396845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3676932858",
+              "start": 3,
+              "username": "JuiceWorlddd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998359301690396845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4453
+        },
+        "referenced_tweets": [
+          {
+            "id": "1198115886990675970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuiceWorlddd: Lost a lot of ppl pray I see em in paradise. Ima make me proud wherever they are"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3676932858",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Juice WRLD rapper",
+              "id": "1155881136624504833",
+              "name": "Juice WRLD"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Juice WRLD rapper",
+              "id": "1155881136624504833",
+              "name": "Juice WRLD"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Juice WRLD rapper",
+              "id": "1155881136624504833",
+              "name": "Juice WRLD"
+            }
+          }
+        ],
+        "conversation_id": "1198115886990675970",
+        "created_at": "2019-11-23T05:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2019-11-23T06:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1198115886990675970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1198115886990675970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 0,
+          "like_count": 21583,
+          "quote_count": 392,
+          "reply_count": 118,
+          "retweet_count": 4453
+        },
+        "reply_settings": "everyone",
+        "text": "Lost a lot of ppl pray I see em in paradise. Ima make me proud wherever they are"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 151,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-25T02:58:30.000Z",
+        "description": ".",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "juicewrld999.com",
+                "end": 23,
+                "expanded_url": "http://juicewrld999.com",
+                "start": 0,
+                "url": "https://t.co/3Mm57R1TNd"
+              }
+            ]
+          }
+        },
+        "id": "3676932858",
+        "name": ".",
+        "pinned_tweet_id": "1151926438041460741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1153725293468639232/IbJxRoAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904202,
+          "following_count": 440,
+          "like_count": 19366,
+          "listed_count": 1094,
+          "media_count": 624,
+          "tweet_count": 15878
+        },
+        "url": "https://t.co/3Mm57R1TNd",
+        "username": "JuiceWorlddd",
+        "verified": true
+      }
+    ]
+  }
+}

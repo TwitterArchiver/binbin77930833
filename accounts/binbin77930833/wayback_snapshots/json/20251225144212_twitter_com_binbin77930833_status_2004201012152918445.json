@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004200970260185088",
+        "3_2004200970239279105"
+      ]
+    },
+    "author_id": "1775522951749591040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004201012152918445",
+    "created_at": "2025-12-25T14:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004201012152918445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARTfKkuw14",
+          "end": 43,
+          "expanded_url": "https://x.com/binbin77930833/status/2004201012152918445/photo/1",
+          "media_key": "3_2004200970260185088",
+          "start": 20,
+          "url": "https://t.co/ARTfKkuw14"
+        },
+        {
+          "display_url": "pic.x.com/ARTfKkuw14",
+          "end": 43,
+          "expanded_url": "https://x.com/binbin77930833/status/2004201012152918445/photo/1",
+          "media_key": "3_2004200970239279105",
+          "start": 20,
+          "url": "https://t.co/ARTfKkuw14"
+        },
+        {
+          "display_url": "x.com/manglesuki/sta…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+          "start": 44,
+          "url": "https://t.co/cRkIG4sVib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004201012152918445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996632430036635741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经一个月了，烧了点普瑞跟他最爱抽的烟 https://t.co/ARTfKkuw14 https://t.co/cRkIG4sVib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2004200970260185088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BaKeraAAAMIlC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004200970239279105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BaKembAAE6eZk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004200970260185088",
+            "3_2004200970239279105"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004201012152918445",
+        "created_at": "2025-12-25T14:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004201012152918445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARTfKkuw14",
+              "end": 43,
+              "expanded_url": "https://x.com/binbin77930833/status/2004201012152918445/photo/1",
+              "media_key": "3_2004200970260185088",
+              "start": 20,
+              "url": "https://t.co/ARTfKkuw14"
+            },
+            {
+              "display_url": "pic.x.com/ARTfKkuw14",
+              "end": 43,
+              "expanded_url": "https://x.com/binbin77930833/status/2004201012152918445/photo/1",
+              "media_key": "3_2004200970239279105",
+              "start": 20,
+              "url": "https://t.co/ARTfKkuw14"
+            },
+            {
+              "display_url": "x.com/manglesuki/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+              "start": 44,
+              "url": "https://t.co/cRkIG4sVib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004201012152918445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经一个月了，烧了点普瑞跟他最爱抽的烟 https://t.co/ARTfKkuw14 https://t.co/cRkIG4sVib"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-04T17:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996632430036635741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996632430036635741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 210073,
+          "like_count": 340,
+          "quote_count": 46,
+          "reply_count": 110,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：药物百科wiki主沐雨因严重的肺部感染，于2025.11.25不幸病逝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 157,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 78,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

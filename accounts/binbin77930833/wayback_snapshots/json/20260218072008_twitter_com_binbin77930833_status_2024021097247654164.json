@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2024004502555074878",
+    "created_at": "2026-02-18T07:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024021097247654164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024021097247654164",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024004502555074878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu 🍎🐛🐛🐛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2024004502555074878",
+        "created_at": "2026-02-18T07:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024021097247654164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024021097247654164",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024004502555074878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu 🍎🐛🐛🐛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2024004502555074878",
+        "created_at": "2026-02-18T06:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024004502555074878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @dddddlg28 right away.",
+              "display_url": "t.me/dddddlg28",
+              "end": 32,
+              "expanded_url": "https://t.me/dddddlg28",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2024001917852983296/EUKV8EB2?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024001917852983296/EUKV8EB2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "💊心爱的猫2.0",
+              "unwound_url": "https://t.me/dddddlg28",
+              "url": "https://t.co/UJbfUC69vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024004502555074878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "频道已复活ᗜᴗᗜ https://t.co/UJbfUC69vT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 77,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 54,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 222,
+          "like_count": 507,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜📜处方https://t.co/kh9MogN4yx｜✈️我推的机场https://t.co/Nl7I5ItlRA｜tg 电报会员https://t.co/hO3j7URPww",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddddlg28",
+                "end": 58,
+                "expanded_url": "https://t.me/dddddlg28",
+                "start": 35,
+                "url": "https://t.co/kh9MogN4yx"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 89,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 66,
+                "url": "https://t.co/Nl7I5ItlRA"
+              },
+              {
+                "display_url": "dalao.one/?from=1109",
+                "end": 120,
+                "expanded_url": "https://www.dalao.one?from=1109",
+                "start": 97,
+                "url": "https://t.co/hO3j7URPww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl28",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl28",
+                "start": 0,
+                "url": "https://t.co/RS1J3CSabX"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 528,
+          "like_count": 11507,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/RS1J3CSabX",
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

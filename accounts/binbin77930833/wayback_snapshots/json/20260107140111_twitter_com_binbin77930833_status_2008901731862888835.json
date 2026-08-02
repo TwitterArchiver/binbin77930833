@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2006830611080819082",
+    "created_at": "2026-01-07T14:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008901731862888835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781137539581255680",
+          "start": 0,
+          "username": "yuyi1718193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008901731862888835",
+    "in_reply_to_user_id": "1781137539581255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008901394628218941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyi1718193 哪个帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2006830611080819082",
+        "created_at": "2026-01-07T14:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008901731862888835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781137539581255680",
+              "start": 0,
+              "username": "yuyi1718193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008901731862888835",
+        "in_reply_to_user_id": "1781137539581255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008901394628218941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyi1718193 哪个帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781137539581255680",
+        "conversation_id": "2006830611080819082",
+        "created_at": "2026-01-07T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008901394628218941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008901394628218941",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006830611080819082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 模仿不艾特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "08年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 170,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T01:47:56.000Z",
+        "description": "mtf | 12年173cm药娘|性别认知障碍|双性恋|《别当欧尼酱》| 无证含糖|坐标河南|平时会有点小颠，喜欢搞抽象｜早晚没钱饿死｜妈妈@xiazixuan520｜最好的精神支柱@yuyou2859287112\n“前天遇到了兔子，昨天遇到了小鹿，而今天遇到了你”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiazixuan520"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "yuyou2859287112"
+              }
+            ]
+          }
+        },
+        "id": "1781137539581255680",
+        "location": "河南",
+        "name": "夏雨晴🍥",
+        "pinned_tweet_id": "1935382578086953113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935590428918558720/CQ7WR9gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 40,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "username": "yuyi1718193",
+        "verified": false
+      }
+    ]
+  }
+}

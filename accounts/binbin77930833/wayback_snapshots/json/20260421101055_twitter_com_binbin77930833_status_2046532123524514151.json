@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2046513175181631682",
+    "created_at": "2026-04-21T10:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046532123524514151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967832635201478656",
+          "start": 0,
+          "username": "geng_ju55326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046532123524514151",
+    "in_reply_to_user_id": "1967832635201478656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046531232788594926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geng_ju55326 损伤肝肾是100%会有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2046513175181631682",
+        "created_at": "2026-04-21T10:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046532123524514151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967832635201478656",
+              "start": 0,
+              "username": "geng_ju55326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046532123524514151",
+        "in_reply_to_user_id": "1967832635201478656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046531232788594926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geng_ju55326 损伤肝肾是100%会有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967832635201478656",
+        "conversation_id": "2046513175181631682",
+        "created_at": "2026-04-21T10:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046531232788594926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046531232788594926",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046513175181631682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 这是啥 副作用大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 287,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T06:07:24.000Z",
+        "description": "@yukobaobao2 @yizizi35 @august100707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "yukobaobao2"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yizizi35"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "august100707"
+              }
+            ]
+          }
+        },
+        "id": "1967832635201478656",
+        "location": "距您0.1km",
+        "name": "荔枝",
+        "pinned_tweet_id": "2040398552464339022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016848152184442884/CT2mrl5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 24,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 153
+        },
+        "username": "geng_ju55326",
+        "verified": false
+      }
+    ]
+  }
+}

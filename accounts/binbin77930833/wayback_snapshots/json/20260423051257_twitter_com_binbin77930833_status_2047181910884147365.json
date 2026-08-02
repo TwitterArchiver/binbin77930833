@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2047181910884147365",
+    "created_at": "2026-04-23T05:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047181910884147365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047181910884147365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047181099718377641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 你说的对，但这就是鸡哥，18岁化名东东组建盗版gal网站，20岁注册chicken账户建立od群聊，21岁与后藤组建odwiki并在官号发布本人割蛋雪兔，在位期间骚扰地雷女，开盒后藤，与多个o圈名人组建wiki又背刺，发布DDoS攻击压制数个w…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2047181097440817152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkMXJfasAAhibe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2047181910884147365",
+        "created_at": "2026-04-23T05:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047181910884147365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047181910884147365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047181099718377641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 你说的对，但这就是鸡哥，18岁化名东东组建盗版gal网站，20岁注册chicken账户建立od群聊，21岁与后藤组建odwiki并在官号发布本人割蛋雪兔，在位期间骚扰地雷女，开盒后藤，与多个o圈名人组建wiki又背刺，发布DDoS攻击压制数个w…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047181097440817152"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2047181099718377641",
+        "created_at": "2026-04-23T05:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047181099718377641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWmdUCnZDv",
+              "end": 169,
+              "expanded_url": "https://x.com/bui_tu46916/status/2047181099718377641/photo/1",
+              "media_key": "3_2047181097440817152",
+              "start": 146,
+              "url": "https://t.co/PWmdUCnZDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047181099718377641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你说的对，但这就是鸡哥，18岁化名东东组建盗版gal网站，20岁注册chicken账户建立od群聊，21岁与后藤组建odwiki并在官号发布本人割蛋雪兔，在位期间骚扰地雷女，开盒后藤，与多个o圈名人组建wiki又背刺，发布DDoS攻击压制数个wiki近一年，盗取他人文案，最后惜败晶哥铁拳。 https://t.co/PWmdUCnZDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 291,
+          "like_count": 1053,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 200,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 617
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

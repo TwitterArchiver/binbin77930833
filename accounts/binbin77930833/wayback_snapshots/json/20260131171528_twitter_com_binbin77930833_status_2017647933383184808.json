@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2017559005233828196",
+    "created_at": "2026-01-31T17:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017647933383184808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaze3"
+        },
+        {
+          "end": 27,
+          "id": "1324778451946020865",
+          "start": 13,
+          "username": "beastere_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017647933383184808",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017572461550981548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaze3 @beastere_susu 我基本每天都吃 每天都吃就不考虑戒断"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2017559005233828196",
+        "created_at": "2026-01-31T17:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017647933383184808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 27,
+              "id": "1324778451946020865",
+              "start": 13,
+              "username": "beastere_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017647933383184808",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017572461550981548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaze3 @beastere_susu 我基本每天都吃 每天都吃就不考虑戒断"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2017559005233828196",
+        "created_at": "2026-01-31T12:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017572461550981548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1324778451946020865",
+              "start": 0,
+              "username": "beastere_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017572461550981548",
+        "in_reply_to_user_id": "1324778451946020865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 84,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017559005233828196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beastere_susu 我都尽量控制着一星期左右一次，就怕耐受叠起来恶性循环，几种不共享耐受的药交替轮流吃，比如这次吃pr，三四天以后吃愈美，再三四天吃pr这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊丨匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 88,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 65,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 214,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 恋人：@HCwufs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 102,
+                "username": "HCwufs"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "百八十無常🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2017204505763512698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009448964886806528/m5QwCeN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 575,
+          "like_count": 13759,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 3729
+        },
+        "username": "misumikaze3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T18:19:39.000Z",
+        "description": "出厂日期2005.8.10／💛🤍💜🖤&泛性恋/enby（？）hrt进行中/💔我有唐氏综合征💔/brony🐴/不建政🤗／小男友😘：@HongYu20960／妈咪🥰：@wwl15956a／od/自残",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "HongYu20960"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "wwl15956a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/beastere_susu/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/beastere_susu/",
+                "start": 0,
+                "url": "https://t.co/kq1oTlnzDY"
+              }
+            ]
+          }
+        },
+        "id": "1324778451946020865",
+        "location": "山的东边",
+        "name": "✨star小悦੭ ᐕ)੭",
+        "pinned_tweet_id": "2012212308722712655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004848126683996160/EMOpyx0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 317,
+          "like_count": 19399,
+          "listed_count": 7,
+          "media_count": 1052,
+          "tweet_count": 7321
+        },
+        "url": "https://t.co/kq1oTlnzDY",
+        "username": "beastere_susu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2079561231040385026",
+    "created_at": "2026-07-22T07:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079834328037740551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "759683995563094017",
+          "start": 0,
+          "username": "tarkov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079834328037740551",
+    "in_reply_to_user_id": "759683995563094017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079561231040385026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tarkov 尼基塔400头猪 做游戏给我做好的呀🤬"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 145320,
+        "height": 2160,
+        "media_key": "13_2079501588675129344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079501588675129344/img/dh6g6ZxLoAd2xkZp.jpg",
+        "public_metrics": {
+          "view_count": 35587
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079501588675129344/vid/avc1/1280x720/GQhlxd91qRUC0pCI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079501588675129344/vid/avc1/640x360/-w4TfwY_YZeCek1p.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079501588675129344/vid/avc1/1920x1080/jdMBoFoOVXSfDGJw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079501588675129344/vid/avc1/480x270/eYcvqv6rTlQ3jS09.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079501588675129344/vid/avc1/3840x2160/_60JuL1C4_8gt-b1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079501588675129344/pl/-tI0kzHh_ED7lx-a.m3u8?v=cfc"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2079561231040385026",
+        "created_at": "2026-07-22T07:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079834328037740551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "759683995563094017",
+              "start": 0,
+              "username": "tarkov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079834328037740551",
+        "in_reply_to_user_id": "759683995563094017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079561231040385026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tarkov 尼基塔400头猪 做游戏给我做好的呀🤬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079501588675129344"
+          ]
+        },
+        "author_id": "759683995563094017",
+        "conversation_id": "2079561231040385026",
+        "created_at": "2026-07-21T13:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079561231040385026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "In this video we customize an AKS-74U. A shortened version of the f...",
+              "display_url": "youtu.be/xz9ZIVReCac",
+              "end": 274,
+              "expanded_url": "https://youtu.be/xz9ZIVReCac",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2079561235251515392/EFU23ilW?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079561235251515392/EFU23ilW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 251,
+              "status": 200,
+              "title": "BSG.ASMR.AKS-74U",
+              "unwound_url": "https://www.youtube.com/watch?v=xz9ZIVReCac&feature=youtu.be",
+              "url": "https://t.co/v9tNrOe8sQ"
+            },
+            {
+              "display_url": "pic.x.com/YstPnfFnQz",
+              "end": 298,
+              "expanded_url": "https://x.com/tarkov/status/2079561231040385026/video/1",
+              "media_key": "13_2079501588675129344",
+              "start": 275,
+              "url": "https://t.co/YstPnfFnQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079561231040385026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 293,
+                "start": 276,
+                "tag": "EscapefromTarkov"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/xz9ZIVReCac",
+                "end": 274,
+                "expanded_url": "https://youtu.be/xz9ZIVReCac",
+                "start": 251,
+                "url": "https://t.co/D8LIn03nYV"
+              }
+            ]
+          },
+          "text": "In this video we customize an AKS-74U. A shortened version of the famous assault rifle developed in the early 80s for combat vehicle crews and airborne troops, it also became very popular with law enforcement and special forces for its compact size. \nhttps://t.co/D8LIn03nYV\n\n#EscapefromTarkov"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 105670,
+          "like_count": 1275,
+          "quote_count": 14,
+          "reply_count": 42,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "In this video we customize an AKS-74U. A shortened version of the famous assault rifle developed in the early 80s for combat vehicle crews and airborne troops, it also became very popular with law enforcement and special forces for its compact size. \nhttps://t.co/v9tNrOe8sQ https://t.co/YstPnfFnQz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 347,
+          "like_count": 1581,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-31T09:35:54.000Z",
+        "description": "Escape from Tarkov is a hardcore realistic story-driven FPS with RPG elements developed by @bstategames.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "bstategames"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "escapefromtarkov.com",
+                "end": 23,
+                "expanded_url": "https://www.escapefromtarkov.com/",
+                "start": 0,
+                "url": "https://t.co/2a61OUsd5W"
+              }
+            ]
+          }
+        },
+        "id": "759683995563094017",
+        "name": "Escape from Tarkov",
+        "pinned_tweet_id": "2067608325085143407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058838438900617216/3MT4g_A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530672,
+          "following_count": 118,
+          "like_count": 6437,
+          "listed_count": 895,
+          "media_count": 3465,
+          "tweet_count": 10556
+        },
+        "url": "https://t.co/2a61OUsd5W",
+        "username": "tarkov",
+        "verified": true
+      }
+    ]
+  }
+}

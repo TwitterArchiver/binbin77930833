@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "1999128331590287609",
+    "created_at": "2025-12-12T09:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999414124086985209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Nuominiang75884"
+        },
+        {
+          "end": 31,
+          "id": "1857704460933648384",
+          "start": 17,
+          "username": "wumaundo91440"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999414124086985209",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999237915428417861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuominiang75884 @wumaundo91440 糯米…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "1999128331590287609",
+        "created_at": "2025-12-12T09:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999414124086985209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            },
+            {
+              "end": 31,
+              "id": "1857704460933648384",
+              "start": 17,
+              "username": "wumaundo91440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999414124086985209",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999237915428417861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 @wumaundo91440 糯米…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "1999128331590287609",
+        "created_at": "2025-12-11T22:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T23:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999237915428417861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857704460933648384",
+              "start": 0,
+              "username": "wumaundo91440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999237915428417861",
+        "in_reply_to_user_id": "1857704460933648384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999153036414083094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumaundo91440 我现在都没有改对偏爱的备注，分手是她提的，那天吵架我一句话没骂她，我手机了现在还有十几个为她报警的录音\n我从没说过不要她，也欢迎她回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "16丨无证含糖丨mtf丨oder丨很高兴认识大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "Minato-ku, Tokyo",
+        "name": "偏爱&",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988872075814268929/S4DltJ9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 153,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上 /08.11.23/摄影📷/精神病学/永不分离的@angeldust126185/永远的、无可替代的@Kietter387803 /心理干预",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "angeldust126185"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米",
+        "pinned_tweet_id": "1988525640388161951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 1502,
+          "like_count": 18852,
+          "listed_count": 4,
+          "media_count": 313,
+          "tweet_count": 2798
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T08:37:21.000Z",
+        "description": "自私，懒惰，虚伪，傲慢，背叛，仇恨，嫉妒，多疑，偏执，幸灾乐祸，心胸狭隘，令人作呕，这些是我灵魂的全部\n？？？：",
+        "id": "1857704460933648384",
+        "location": "20meters",
+        "name": "松松NO.8964",
+        "pinned_tweet_id": "1960194260487242141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938228030914101248/x_ZXE8Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 96,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 696
+        },
+        "username": "wumaundo91440",
+        "verified": false
+      }
+    ]
+  }
+}

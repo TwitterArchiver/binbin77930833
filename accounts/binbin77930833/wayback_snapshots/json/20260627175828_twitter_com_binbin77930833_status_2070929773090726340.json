@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1467613975323955201",
+          "name": "Asante Kotoko"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1467613975323955201",
+          "name": "Asante Kotoko"
+        }
+      }
+    ],
+    "conversation_id": "2070929773090726340",
+    "created_at": "2026-06-27T17:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070929773090726340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/needygirl_anim…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/needygirl_anime/status/2070900462287568904",
+          "start": 8,
+          "url": "https://t.co/SG7W1YaVku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070929773090726340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070900462287568904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完结撒花😭😭😭 https://t.co/SG7W1YaVku"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33491,
+        "height": 1080,
+        "media_key": "13_2070544595075956738",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070544595075956738/img/BXHNZkJnvZ17E4sd.jpg",
+        "public_metrics": {
+          "view_count": 14222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070544595075956738/vid/avc1/480x270/SSaP-cFHID7Z5WPy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070544595075956738/vid/avc1/640x360/s1-bcdGX-HyWtCoG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070544595075956738/vid/avc1/1280x720/sgCsWnEWDJZB1oqw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070544595075956738/pl/vqVEGGIOict2goKY.m3u8?tag=14&v=844"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          }
+        ],
+        "conversation_id": "2070929773090726340",
+        "created_at": "2026-06-27T17:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070929773090726340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2070900462287568904",
+              "start": 8,
+              "url": "https://t.co/SG7W1YaVku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070929773090726340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070900462287568904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完结撒花😭😭😭 https://t.co/SG7W1YaVku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070544595075956738"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1467613975323955201",
+              "name": "Asante Kotoko"
+            }
+          }
+        ],
+        "conversation_id": "2070900462287568904",
+        "created_at": "2026-06-27T16:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070900462287568904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 165,
+              "start": 160,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 108,
+              "id": "345191538",
+              "start": 95,
+              "username": "KOTOKO_Dwarf"
+            },
+            {
+              "end": 138,
+              "id": "1771590859303366656",
+              "start": 128,
+              "username": "aiobahn81"
+            },
+            {
+              "end": 157,
+              "id": "349054800",
+              "start": 150,
+              "username": "nyalra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsw671wCPs",
+              "end": 189,
+              "expanded_url": "https://x.com/needygirl_anime/status/2070900462287568904/video/1",
+              "media_key": "13_2070544595075956738",
+              "start": 166,
+              "url": "https://t.co/gsw671wCPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070900462287568904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 68124,
+          "like_count": 1071,
+          "quote_count": 47,
+          "reply_count": 4,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "✦・┈┈┈┈┈┈┈・✦\n\n          『Galge』\n　　  Official MV\n\n✦・┈┈┈┈┈┈┈・✦\n\n最終話・第13話\nエンディングテーマMV公開\n\n歌唱：KOTOKO(@KOTOKO_Dwarf)\n作曲・編曲：Aiobahn +81(@aiobahn81)\n作詞：nyalra(@nyalra)\n\n#ニディガ https://t.co/gsw671wCPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 332,
+          "like_count": 1385,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜TVアニメ26年4月より毎週土曜24:30～ 順次放送中｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ ｜【ラジオ公式タグ】#ニディガラジオ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "ニディガラジオ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MS8Mu"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2070900462287568904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031308461120884736/op5QKraD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47421,
+          "following_count": 29,
+          "like_count": 41,
+          "listed_count": 118,
+          "media_count": 836,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/6rMK2MS8Mu",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

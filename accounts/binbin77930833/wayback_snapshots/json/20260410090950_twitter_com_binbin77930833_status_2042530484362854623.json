@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2042127057199792500",
+    "created_at": "2026-04-10T09:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042530484362854623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029061443568713731",
+          "start": 0,
+          "username": "maoxiansql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042530484362854623",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042519228419576199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxiansql 你问晶哥吃不吃鸡尘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2042127057199792500",
+        "created_at": "2026-04-10T09:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042530484362854623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxiansql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042530484362854623",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042519228419576199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxiansql 你问晶哥吃不吃鸡尘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2042127057199792500",
+        "created_at": "2026-04-10T08:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042519228419576199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/maoxian1527/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/maoxian1527/status/2042188400829350168",
+              "start": 20,
+              "url": "https://t.co/jQuFrHnp1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042519228419576199",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042188400829350168",
+            "type": "quoted"
+          },
+          {
+            "id": "2042127057199792500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 自己看 https://t.co/jQuFrHnp1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 273,
+          "like_count": 871,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "前世@maoxian1527 | CPTSD | DID | 重抑重焦 | 双相 | kitty live system🐱 |戒OD💊 | 🏳️‍⚧️友好 | 含🍥顺女 | 🍣梦女 | fo友巡回 | 地铁迷🚇 | 摄影📷 | apple | @mao_xian1527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "mao_xian1527"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "中華民國派台独分子🇹🇼",
+        "name": "猫弦ACT🏳️‍⚧️🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2033574205263155357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029061783508652032/3ACAbPrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 28,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 108
+        },
+        "username": "maoxiansql",
+        "verified": false
+      }
+    ]
+  }
+}

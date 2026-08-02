@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2009972791517556835",
+    "created_at": "2026-01-10T12:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009972791517556835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009972791517556835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009887935026401339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 《阿普唑仑药片变为监狱铁窗》\n“我”在学校吸了一片阿普唑仑药片，然后神志不清，犯下了各种蠢事，最后被警察抓了......结果卖给“我”药片的人磕得更嗨，被放出来之后，一枪把他妈崩了......\n阿普唑仑原来还能鼻吸嘛🤓\n还是建议大家不要在公共场合吃…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2009887020743610368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SNmLYXUAAuYJx.jpg",
+        "width": 1082
+      },
+      {
+        "height": 908,
+        "media_key": "3_2009887020789719040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SNmLjW4AASEDO.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2009887020747730944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SNmLZWMAAURF1.jpg",
+        "width": 1185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2009972791517556835",
+        "created_at": "2026-01-10T12:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009972791517556835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009972791517556835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009887935026401339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 《阿普唑仑药片变为监狱铁窗》\n“我”在学校吸了一片阿普唑仑药片，然后神志不清，犯下了各种蠢事，最后被警察抓了......结果卖给“我”药片的人磕得更嗨，被放出来之后，一枪把他妈崩了......\n阿普唑仑原来还能鼻吸嘛🤓\n还是建议大家不要在公共场合吃…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009887020743610368",
+            "3_2009887020789719040",
+            "3_2009887020747730944"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2009887935026401339",
+        "created_at": "2026-01-10T07:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009887935026401339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqwv2Yb4cY",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2009887935026401339/photo/1",
+              "media_key": "3_2009887020743610368",
+              "start": 152,
+              "url": "https://t.co/sqwv2Yb4cY"
+            },
+            {
+              "display_url": "pic.x.com/sqwv2Yb4cY",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2009887935026401339/photo/1",
+              "media_key": "3_2009887020789719040",
+              "start": 152,
+              "url": "https://t.co/sqwv2Yb4cY"
+            },
+            {
+              "display_url": "pic.x.com/sqwv2Yb4cY",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2009887935026401339/photo/1",
+              "media_key": "3_2009887020747730944",
+              "start": 152,
+              "url": "https://t.co/sqwv2Yb4cY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009887935026401339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1835,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《阿普唑仑药片变为监狱铁窗》\n“我”在学校吸了一片阿普唑仑药片，然后神志不清，犯下了各种蠢事，最后被警察抓了......结果卖给“我”药片的人磕得更嗨，被放出来之后，一枪把他妈崩了......\n阿普唑仑原来还能鼻吸嘛🤓\n还是建议大家不要在公共场合吃药呢，尤其是苯二氮䓬等降低意志力的🥺\n(想起一位故人) https://t.co/sqwv2Yb4cY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭|前药物百科编辑组成员丨愿每一个药物滥用者脱离深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 193,
+          "like_count": 307,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 740,
+          "like_count": 17582,
+          "listed_count": 7,
+          "media_count": 215,
+          "tweet_count": 4768
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

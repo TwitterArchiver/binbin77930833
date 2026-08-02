@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2039719102022041989",
+    "created_at": "2026-04-02T15:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039720362003608028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720722874829570048",
+          "start": 0,
+          "username": "07linseven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039720362003608028",
+    "in_reply_to_user_id": "1720722874829570048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039719102022041989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07linseven 法 买了否冷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3739,
+        "media_key": "3_2039719021852147713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6JpLsawAE7_TU.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2039719021944430592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6JpMCa4AAKIwn.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2039719102022041989",
+        "created_at": "2026-04-02T15:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039720362003608028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720722874829570048",
+              "start": 0,
+              "username": "07linseven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039720362003608028",
+        "in_reply_to_user_id": "1720722874829570048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039719102022041989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07linseven 法 买了否冷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039719021852147713",
+            "3_2039719021944430592"
+          ]
+        },
+        "author_id": "1720722874829570048",
+        "conversation_id": "2039719102022041989",
+        "created_at": "2026-04-02T14:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039719102022041989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OuPt5BakC",
+              "end": 33,
+              "expanded_url": "https://x.com/07linseven/status/2039719102022041989/photo/1",
+              "media_key": "3_2039719021852147713",
+              "start": 10,
+              "url": "https://t.co/0OuPt5BakC"
+            },
+            {
+              "display_url": "pic.x.com/0OuPt5BakC",
+              "end": 33,
+              "expanded_url": "https://x.com/07linseven/status/2039719102022041989/photo/1",
+              "media_key": "3_2039719021944430592",
+              "start": 10,
+              "url": "https://t.co/0OuPt5BakC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039719102022041989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以让我给你祷吗🤔 https://t.co/0OuPt5BakC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 256,
+          "like_count": 726,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T08:41:30.000Z",
+        "description": "∣已梦游国家50+ | ｜男女混血 | 渝籍猪猪  | \n| 985没考| 存款100000000科恩币 | 资深掌握汉语｜无民族主义｜猪｜",
+        "id": "1720722874829570048",
+        "location": "索拉里斯大陆",
+        "name": "臨柒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039562335938113536/msm5vxde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "07linseven",
+        "verified": false
+      }
+    ]
+  }
+}

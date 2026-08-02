@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059341149102653441",
+        "3_2059341149131952128",
+        "3_2059341149115129856"
+      ]
+    },
+    "author_id": "1775522951749591040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059341161299583103",
+    "created_at": "2026-05-26T18:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059341161299583103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQ3JtvBhGM",
+          "end": 164,
+          "expanded_url": "https://x.com/binbin77930833/status/2059341161299583103/photo/1",
+          "media_key": "3_2059341149102653441",
+          "start": 141,
+          "url": "https://t.co/vQ3JtvBhGM"
+        },
+        {
+          "display_url": "pic.x.com/vQ3JtvBhGM",
+          "end": 164,
+          "expanded_url": "https://x.com/binbin77930833/status/2059341161299583103/photo/1",
+          "media_key": "3_2059341149131952128",
+          "start": 141,
+          "url": "https://t.co/vQ3JtvBhGM"
+        },
+        {
+          "display_url": "pic.x.com/vQ3JtvBhGM",
+          "end": 164,
+          "expanded_url": "https://x.com/binbin77930833/status/2059341161299583103/photo/1",
+          "media_key": "3_2059341149115129856",
+          "start": 141,
+          "url": "https://t.co/vQ3JtvBhGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059341161299583103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "项目空间、研究聊天、文件知识库、分子工作台、报告中心、联网证据流都已经接入。\n\n后面我们会给所有 oder 用户开放每日免费提问额度。\n\n药物滥用研究、药理机制分析、文献整理、分子信息归纳，以后都可以在一个工作台里完成，也请大家给我们一些时间修bug\n\n先关注，开放入口不会等太久 https://t.co/vQ3JtvBhGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2059341149102653441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ_3T-bwAEDAeQ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 983,
+        "media_key": "3_2059341149131952128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ_3UFa0AAnbKr.jpg",
+        "width": 1920
+      },
+      {
+        "height": 973,
+        "media_key": "3_2059341149115129856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ_3UBaIAAbO5m.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059341149102653441",
+            "3_2059341149131952128",
+            "3_2059341149115129856"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059341161299583103",
+        "created_at": "2026-05-26T18:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059341161299583103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQ3JtvBhGM",
+              "end": 164,
+              "expanded_url": "https://x.com/binbin77930833/status/2059341161299583103/photo/1",
+              "media_key": "3_2059341149102653441",
+              "start": 141,
+              "url": "https://t.co/vQ3JtvBhGM"
+            },
+            {
+              "display_url": "pic.x.com/vQ3JtvBhGM",
+              "end": 164,
+              "expanded_url": "https://x.com/binbin77930833/status/2059341161299583103/photo/1",
+              "media_key": "3_2059341149131952128",
+              "start": 141,
+              "url": "https://t.co/vQ3JtvBhGM"
+            },
+            {
+              "display_url": "pic.x.com/vQ3JtvBhGM",
+              "end": 164,
+              "expanded_url": "https://x.com/binbin77930833/status/2059341161299583103/photo/1",
+              "media_key": "3_2059341149115129856",
+              "start": 141,
+              "url": "https://t.co/vQ3JtvBhGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059341161299583103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "项目空间、研究聊天、文件知识库、分子工作台、报告中心、联网证据流都已经接入。\n\n后面我们会给所有 oder 用户开放每日免费提问额度。\n\n药物滥用研究、药理机制分析、文献整理、分子信息归纳，以后都可以在一个工作台里完成，也请大家给我们一些时间修bug\n\n先关注，开放入口不会等太久 https://t.co/vQ3JtvBhGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 318,
+          "like_count": 1283,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}
