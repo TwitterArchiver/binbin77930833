@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2086610186584899901",
+    "created_at": "2026-08-10T07:02:05.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T08:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086709656429473984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072375562291875840",
+          "start": 0,
+          "username": "cpa1cap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086709656429473984",
+    "in_reply_to_user_id": "2072375562291875840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086610186584899901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpa1cap 加油吧🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2086610172081020928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUg5WubIAAAl6s.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2086610186584899901",
+        "created_at": "2026-08-10T07:02:05.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086709656429473984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072375562291875840",
+              "start": 0,
+              "username": "cpa1cap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086709656429473984",
+        "in_reply_to_user_id": "2072375562291875840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086610186584899901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpa1cap 加油吧🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086610172081020928"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2086610186584899901",
+        "created_at": "2026-08-10T00:26:50.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086610186584899901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3wDQPwb8f",
+              "end": 127,
+              "expanded_url": "https://x.com/cpa1cap/status/2086610186584899901/photo/1",
+              "media_key": "3_2086610172081020928",
+              "start": 104,
+              "url": "https://t.co/L3wDQPwb8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086610186584899901",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086610172081020928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天回来看看，学校给了留校察看，让我回去考虑开学要不要来\n\n感谢给我这次机会🥹但精神状态恐怕也上不了，你说突然读瘾发作怎么上课。还是要珍惜现在的生活，别抱怨你学校不好或者生活压力，你们已经超过无数普通人了😭 https://t.co/L3wDQPwb8f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2086709656429473984",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 360,
+          "like_count": 1779,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo）",
+        "id": "2072375562291875840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086709303554314430",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2083452030560108689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072375562291875840/1784271113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083456857591672833/BqnaG2AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 214,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "cpa1cap",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

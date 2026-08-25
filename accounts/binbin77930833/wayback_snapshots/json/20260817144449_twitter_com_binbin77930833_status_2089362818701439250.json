@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2089315896909336775",
+    "created_at": "2026-08-17T14:44:49.000Z",
+    "display_text_range": [
+      8,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089362818701439250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089362818701439250",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089315896909336775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 尽量别暴露个人信息呀🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2089315875224768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69uAZbUAAxYDL.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2089315875300212737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP69uAragAEBk3j.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2089315896909336775",
+        "created_at": "2026-08-17T14:44:49.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089362818701439250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089362818701439250",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089315896909336775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 尽量别暴露个人信息呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089315875224768512",
+            "3_2089315875300212737"
+          ]
+        },
+        "author_id": "1994724283176947712",
+        "conversation_id": "2089315896909336775",
+        "created_at": "2026-08-17T11:38:22.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089315896909336775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X43ko8ZOoS",
+              "end": 183,
+              "expanded_url": "https://x.com/lvovl3/status/2089315896909336775/photo/1",
+              "media_key": "3_2089315875224768512",
+              "start": 160,
+              "url": "https://t.co/X43ko8ZOoS"
+            },
+            {
+              "display_url": "pic.x.com/X43ko8ZOoS",
+              "end": 183,
+              "expanded_url": "https://x.com/lvovl3/status/2089315896909336775/photo/1",
+              "media_key": "3_2089315875300212737",
+              "start": 160,
+              "url": "https://t.co/X43ko8ZOoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089315896909336775",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089315875224768512"
+          },
+          {
+            "media_key": "3_2089315875300212737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是lucia\n喜欢到处转发然后说自己的事情 提前致歉\n\nip青岛 04 AUDHD 双相精神分裂 ed \n滥用止痛药 娱乐成分只有pr和sns\n精神状态没有良好过\n评论开放 但是抱歉😖\n我不知道怎样回复就不会回复\n私信开放 我不知道怎么回复会直接说明\n同类可私我加联系方式\n\n每个月药费是我生活费的一半\n谢谢好心资助 https://t.co/X43ko8ZOoS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2089362818701439250",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 368,
+          "like_count": 1844,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 滥用止痛药 同类回fo\n模仿人类失败者/全世界最恨homework之人/not alien\n人生是被恐惧追赶着逃跑 身体对我太刻薄我要逃跑\n请祝福我快些死掉吧！@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idk69184",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idk69184",
+                "start": 0,
+                "url": "https://t.co/G29eXIQZgF"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号",
+        "most_recent_tweet_id": "2089337327797875131",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 533,
+          "like_count": 4940,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 5410
+        },
+        "url": "https://t.co/G29eXIQZgF",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2086742451465986392",
+    "created_at": "2026-08-11T08:38:15.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087096243738804231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738207674616217600",
+          "start": 0,
+          "username": "AnoYo_1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087096243738804231",
+    "in_reply_to_user_id": "1738207674616217600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086742451465986392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnoYo_1028 求求你们了让我进个od群吧🤓🤓🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2086742445056999424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWZMp9aQAAWyCL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2086742451465986392",
+        "created_at": "2026-08-11T08:38:15.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087096243738804231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738207674616217600",
+              "start": 0,
+              "username": "AnoYo_1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087096243738804231",
+        "in_reply_to_user_id": "1738207674616217600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086742451465986392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnoYo_1028 求求你们了让我进个od群吧🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086742445056999424"
+          ]
+        },
+        "author_id": "1738207674616217600",
+        "conversation_id": "2086742451465986392",
+        "created_at": "2026-08-10T09:12:24.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086742451465986392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyGSH0gAKF",
+              "end": 44,
+              "expanded_url": "https://x.com/AnoYo_1028/status/2086742451465986392/photo/1",
+              "media_key": "3_2086742445056999424",
+              "start": 21,
+              "url": "https://t.co/fyGSH0gAKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086742451465986392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086742445056999424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1799,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥别钓我了 我没加过群你钓不到信息的😂 https://t.co/fyGSH0gAKF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2087096243738804231",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 360,
+          "like_count": 1779,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T14:40:00.000Z",
+        "description": "可以叫我yuyu。本体是一场雨。\n苦逼复读生，不定时上线喵\n互fo大欢迎——我喜欢交朋友呀都来和我玩🥺\n精神不正常可能会发好多奇怪东西。不要讨厌我好吗…😢\n备用号@anoyo1028 我怕哪天这个老号炸了呜呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "anoyo1028"
+              }
+            ]
+          }
+        },
+        "id": "1738207674616217600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086867768327250009",
+        "name": "yuyu",
+        "pinned_tweet_id": "1962905191277346824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738207674616217600/1785471022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082464642186805248/bXxai3or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 122,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "AnoYo_1028",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

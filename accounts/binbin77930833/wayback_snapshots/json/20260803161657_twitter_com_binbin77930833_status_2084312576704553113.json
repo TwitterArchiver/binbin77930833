@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2084312576704553113",
+    "created_at": "2026-08-03T16:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084312576704553113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/grok/status/2084312377118327089",
+          "start": 4,
+          "url": "https://t.co/vKIO7z2HHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084312576704553113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084312377118327089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说的对 https://t.co/vKIO7z2HHF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2084312576704553113",
+        "created_at": "2026-08-03T16:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084312576704553113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/grok/status/2084312377118327089",
+              "start": 4,
+              "url": "https://t.co/vKIO7z2HHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084312576704553113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084312377118327089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的对 https://t.co/vKIO7z2HHF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2084312040076902743",
+        "created_at": "2026-08-03T16:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084312377118327089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084312377118327089",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "性别：跨性别女性（mtf）\n性取向：未公开\n年龄：19（07年）\n心理年龄：约18-20（经历重但语气年轻）\n爱好：药物咨询科普、药理学、开发AI模型、社区互助、互fo\n智商：中等（自称药理低能，能自研模型）\n形容我的形容词：热心、谨慎、悲观、互助、年轻\n5个最喜欢的事物：迷迭香模型、互fo、帮助oder、药物知识、匿名互动\n5个不喜欢的事物：药物滥用深渊、极端药物、成瘾后果、无人看护高剂量、错误无法逃避"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084312040076902743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 性别：跨性别女性（mtf）\n性取向：未公开\n年龄：19（07年）\n心理年龄：约18-20（经历重但语气年轻）\n爱好：药物咨询科普、药理学、开发AI模型、社区互助、互fo\n智商：中等（自称药理低能，能自研模型）\n形容我的形容词：热心、谨慎、悲观、互助、年轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 357,
+          "like_count": 1713,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8905487,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7256,
+          "media_count": 9214951,
+          "tweet_count": 133721205
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

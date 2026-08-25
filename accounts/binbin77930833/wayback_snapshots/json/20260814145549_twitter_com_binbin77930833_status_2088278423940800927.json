@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2088181300037579109",
+    "created_at": "2026-08-14T14:55:49.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088278423940800927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088278423940800927",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088181300037579109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 尽量别在推特漏自己墙内个人信息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2088181249634680832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq1yGsbQAAWIcx.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2088181249592721409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq1yGibAAEF7aX.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2088181249596850176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq1yGjaAAAjfkg.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2088181249605251072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPq1yGlaMAA9PHq.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2088181300037579109",
+        "created_at": "2026-08-14T14:55:49.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088278423940800927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088278423940800927",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088181300037579109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 尽量别在推特漏自己墙内个人信息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088181249634680832",
+            "3_2088181249592721409",
+            "3_2088181249596850176",
+            "3_2088181249605251072"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2088181300037579109",
+        "created_at": "2026-08-14T08:29:53.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088181300037579109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDo5QvIFGk",
+              "end": 33,
+              "expanded_url": "https://x.com/LingYu0612/status/2088181300037579109/photo/1",
+              "media_key": "3_2088181249634680832",
+              "start": 10,
+              "url": "https://t.co/iDo5QvIFGk"
+            },
+            {
+              "display_url": "pic.x.com/iDo5QvIFGk",
+              "end": 33,
+              "expanded_url": "https://x.com/LingYu0612/status/2088181300037579109/photo/1",
+              "media_key": "3_2088181249592721409",
+              "start": 10,
+              "url": "https://t.co/iDo5QvIFGk"
+            },
+            {
+              "display_url": "pic.x.com/iDo5QvIFGk",
+              "end": 33,
+              "expanded_url": "https://x.com/LingYu0612/status/2088181300037579109/photo/1",
+              "media_key": "3_2088181249596850176",
+              "start": 10,
+              "url": "https://t.co/iDo5QvIFGk"
+            },
+            {
+              "display_url": "pic.x.com/iDo5QvIFGk",
+              "end": 33,
+              "expanded_url": "https://x.com/LingYu0612/status/2088181300037579109/photo/1",
+              "media_key": "3_2088181249605251072",
+              "start": 10,
+              "url": "https://t.co/iDo5QvIFGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088181300037579109",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088181249634680832"
+          },
+          {
+            "media_key": "3_2088181249592721409"
+          },
+          {
+            "media_key": "3_2088181249596850176"
+          },
+          {
+            "media_key": "3_2088181249605251072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1324,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“可能被人盯上了” https://t.co/iDo5QvIFGk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2088278423940800927",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 364,
+          "like_count": 1801,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2088271334497452422",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 327,
+          "like_count": 2833,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 938
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

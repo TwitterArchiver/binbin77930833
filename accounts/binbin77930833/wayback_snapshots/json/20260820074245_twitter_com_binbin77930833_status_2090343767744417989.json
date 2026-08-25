@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2090102891269050763",
+    "created_at": "2026-08-20T07:42:45.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090343767744417989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511318184653209602",
+          "start": 0,
+          "username": "GyenonggiDrugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090343767744417989",
+    "in_reply_to_user_id": "1511318184653209602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090102891269050763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GyenonggiDrugs 主播能关注我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2090102891269050763",
+        "created_at": "2026-08-20T07:42:45.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090343767744417989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511318184653209602",
+              "start": 0,
+              "username": "GyenonggiDrugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090343767744417989",
+        "in_reply_to_user_id": "1511318184653209602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090102891269050763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GyenonggiDrugs 主播能关注我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511318184653209602",
+        "conversation_id": "2090102891269050763",
+        "created_at": "2026-08-19T15:45:36.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090102891269050763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngelMayLies/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/AngelMayLies/status/2089435723174965672",
+              "start": 51,
+              "url": "https://t.co/vFOTqhpjRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090102891269050763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089435723174965672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是对的孩子，离开毒品和药物包围的环境，换到更好的生活圈里，一步一步来，相信你能戒毒成功，拥抱太阳🤗 https://t.co/vFOTqhpjRI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2090343767744417989",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 370,
+          "like_count": 1888,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-05T12:22:11.000Z",
+        "description": "解读毒物检测相关资讯，奉献反毒专业见解价值，与禁毒者共成长，与一切毒物为敌。\n微信公众号：京畿道毒检家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mp.weixin.qq.com/s/pX4ZLCMefr2T…",
+                "end": 23,
+                "expanded_url": "https://mp.weixin.qq.com/s/pX4ZLCMefr2TBq3QXlzaAw",
+                "start": 0,
+                "url": "https://t.co/TWviCmLe2N"
+              }
+            ]
+          }
+        },
+        "id": "1511318184653209602",
+        "is_identity_verified": false,
+        "location": "Korea",
+        "most_recent_tweet_id": "2090102891269050763",
+        "name": "京畿道毒检家",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090011144727764993/rnxRWgm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 29,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/TWviCmLe2N",
+        "username": "GyenonggiDrugs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

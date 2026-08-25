@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2086103640444645794",
+    "created_at": "2026-08-08T15:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T16:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086106083018641536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072375562291875840",
+          "start": 0,
+          "username": "cpa1cap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086106083018641536",
+    "in_reply_to_user_id": "2072375562291875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086103640444645794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpa1cap 意难平🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086103625479401472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNUMdlasAAd4AE.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2086103640444645794",
+        "created_at": "2026-08-08T15:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086106083018641536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072375562291875840",
+              "start": 0,
+              "username": "cpa1cap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086106083018641536",
+        "in_reply_to_user_id": "2072375562291875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086103640444645794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpa1cap 意难平🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086103625479401472"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2086103640444645794",
+        "created_at": "2026-08-08T14:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086103640444645794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQiceApVnQ",
+              "end": 44,
+              "expanded_url": "https://x.com/cpa1cap/status/2086103640444645794/photo/1",
+              "media_key": "3_2086103625479401472",
+              "start": 21,
+              "url": "https://t.co/aQiceApVnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086103640444645794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当时怎么还退了，，现在和爱人阴阳两隔了😭 https://t.co/aQiceApVnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 359,
+          "like_count": 1740,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2083452030560108689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083456857591672833/BqnaG2AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 206,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "cpa1cap",
+        "verified": false
+      }
+    ]
+  }
+}

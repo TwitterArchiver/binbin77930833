@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2084224287658094742",
+    "created_at": "2026-08-03T11:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084243628675998072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072375562291875840",
+          "start": 0,
+          "username": "cpa1cap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084243628675998072",
+    "in_reply_to_user_id": "2072375562291875840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084224287658094742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpa1cap 求抓喵🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2084224254300807168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOym6qXaYAAQcHY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1204,
+        "media_key": "3_2084224254300872705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOym6qXbYAEP59H.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2084224287658094742",
+        "created_at": "2026-08-03T11:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084243628675998072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072375562291875840",
+              "start": 0,
+              "username": "cpa1cap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084243628675998072",
+        "in_reply_to_user_id": "2072375562291875840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084224287658094742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpa1cap 求抓喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084224254300807168",
+            "3_2084224254300872705"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2084224287658094742",
+        "created_at": "2026-08-03T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084224287658094742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvBofqOhOu",
+              "end": 28,
+              "expanded_url": "https://x.com/cpa1cap/status/2084224287658094742/photo/1",
+              "media_key": "3_2084224254300807168",
+              "start": 5,
+              "url": "https://t.co/yvBofqOhOu"
+            },
+            {
+              "display_url": "pic.x.com/yvBofqOhOu",
+              "end": 28,
+              "expanded_url": "https://x.com/cpa1cap/status/2084224287658094742/photo/1",
+              "media_key": "3_2084224254300872705",
+              "start": 5,
+              "url": "https://t.co/yvBofqOhOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084224287658094742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 744,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾 https://t.co/yvBofqOhOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 357,
+          "like_count": 1714,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2083452030560108689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083456857591672833/BqnaG2AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 164,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "cpa1cap",
+        "verified": false
+      }
+    ]
+  }
+}

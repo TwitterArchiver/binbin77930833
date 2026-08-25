@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2084195253905687003",
+    "created_at": "2026-08-03T09:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084207576955355641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "yueyulei520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084207576955355641",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084195253905687003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyulei520 我也这样了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084195223207641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyMg1HbgAAoP_q.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2084195253905687003",
+        "created_at": "2026-08-03T09:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084207576955355641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "yueyulei520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084207576955355641",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084195253905687003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyulei520 我也这样了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084195223207641088"
+          ]
+        },
+        "author_id": "1914611702747779072",
+        "conversation_id": "2084195253905687003",
+        "created_at": "2026-08-03T08:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084195253905687003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDJBmIJ8GN",
+              "end": 28,
+              "expanded_url": "https://x.com/yueyulei520/status/2084195253905687003/photo/1",
+              "media_key": "3_2084195223207641088",
+              "start": 5,
+              "url": "https://t.co/cDJBmIJ8GN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084195253905687003",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？666 https://t.co/cDJBmIJ8GN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 357,
+          "like_count": 1711,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "enby｜你想活出怎样的人生｜酒精依赖｜你喜欢我＝我喜欢你｜接受任何友善的立场和我交流｜自由意志左派｜如果心结解不开那就系成蝴蝶结吧｜怪异黑泥逃生门人格：@saki8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚ月雨淚 ɞ✟₊🌹🏴‍☠️🏳️‍🌈",
+        "pinned_tweet_id": "2031769044852871196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083687426451812352/pNvXZMN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1,
+          "like_count": 11023,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 3189
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "yueyulei520",
+        "verified": false
+      }
+    ]
+  }
+}

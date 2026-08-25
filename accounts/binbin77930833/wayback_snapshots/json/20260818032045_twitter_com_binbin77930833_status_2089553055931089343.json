@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2089315896909336775",
+    "created_at": "2026-08-18T03:20:45.000Z",
+    "display_text_range": [
+      25,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089553055931089343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930561344304193537",
+          "start": 0,
+          "username": "zhaoshiyu101107"
+        },
+        {
+          "end": 24,
+          "id": "1994724283176947712",
+          "start": 17,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089553055931089343",
+    "in_reply_to_user_id": "1930561344304193537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089468727876276415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaoshiyu101107 @lvovl3 你等着😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2089315896909336775",
+        "created_at": "2026-08-18T03:20:45.000Z",
+        "display_text_range": [
+          25,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089553055931089343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930561344304193537",
+              "start": 0,
+              "username": "zhaoshiyu101107"
+            },
+            {
+              "end": 24,
+              "id": "1994724283176947712",
+              "start": 17,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089553055931089343",
+        "in_reply_to_user_id": "1930561344304193537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089468727876276415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaoshiyu101107 @lvovl3 你等着😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930561344304193537",
+        "conversation_id": "2089315896909336775",
+        "created_at": "2026-08-17T21:45:39.000Z",
+        "display_text_range": [
+          24,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089468727876276415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            },
+            {
+              "end": 23,
+              "id": "1994724283176947712",
+              "start": 16,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089468727876276415",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089362818701439250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 @lvovl3 你漏的少了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2089553055931089343",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 369,
+          "like_count": 1851,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-05T09:44:46.000Z",
+        "description": "10年初二辍学 | 🎂11.7 | 🏳‍⚧️MtF | 🍥HRT 170/47kg | 📍山东青岛 ｜ 淡推喵 ｜ qq:3671491093",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaoishiyu.top",
+                "end": 23,
+                "expanded_url": "https://www.zhaoishiyu.top",
+                "start": 0,
+                "url": "https://t.co/eqwK68t81N"
+              }
+            ]
+          }
+        },
+        "id": "1930561344304193537",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2059829468861239658",
+        "name": "昭诗雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930561344304193537/1749116910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930562166538817536/QWEZpzaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 173,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/eqwK68t81N",
+        "username": "zhaoshiyu101107",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 滥用止痛药 同类回fo\n模仿人类失败者/全世界最恨homework之人/not alien\n人生是被恐惧追赶着逃跑 身体对我太刻薄我要逃跑\n请祝福我快些死掉吧！@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idk69184",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idk69184",
+                "start": 0,
+                "url": "https://t.co/G29eXIQZgF"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号",
+        "most_recent_tweet_id": "2089540270392295750",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 533,
+          "like_count": 4951,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 5420
+        },
+        "url": "https://t.co/G29eXIQZgF",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2083749632484487171",
+    "created_at": "2026-08-03T08:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084187917250105707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522094771136831488",
+          "start": 0,
+          "username": "Raincandy_1937"
+        },
+        {
+          "end": 30,
+          "id": "1990633723885465602",
+          "start": 16,
+          "username": "bang_dream_on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084187917250105707",
+    "in_reply_to_user_id": "1522094771136831488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084164602699616533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raincandy_1937 @bang_dream_on 这是好事啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2083749632484487171",
+        "created_at": "2026-08-03T08:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084187917250105707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            },
+            {
+              "end": 30,
+              "id": "1990633723885465602",
+              "start": 16,
+              "username": "bang_dream_on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084187917250105707",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084164602699616533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 @bang_dream_on 这是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2083749632484487171",
+        "created_at": "2026-08-03T06:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084164602699616533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990633723885465602",
+              "start": 0,
+              "username": "bang_dream_on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084164602699616533",
+        "in_reply_to_user_id": "1990633723885465602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083749632484487171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bang_dream_on 別再舔宅男哥了求你們了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 356,
+          "like_count": 1710,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1785,
+          "like_count": 17490,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 7615
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T04:11:15.000Z",
+        "description": "「BanG Dream! Our Notes」の公式アカウントです。 #アワーノーツ の最新情報をお届けします。事前登録受付中。\n事前登録キャンペーンサイトはこちら▶https://t.co/DfLj6XKtrJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "アワーノーツ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp/pre-register/",
+                "end": 106,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/pre-register/",
+                "start": 83,
+                "url": "https://t.co/DfLj6XKtrJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp",
+                "end": 23,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/",
+                "start": 0,
+                "url": "https://t.co/L3fVZlgyfN"
+              }
+            ]
+          }
+        },
+        "id": "1990633723885465602",
+        "name": "BanG Dream! Our Notes（バンドリ！アワーノーツ）",
+        "pinned_tweet_id": "2070509674366214475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070509822819368960/ueirH9iV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109840,
+          "following_count": 36,
+          "like_count": 0,
+          "listed_count": 242,
+          "media_count": 175,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/L3fVZlgyfN",
+        "username": "bang_dream_on",
+        "verified": true
+      }
+    ]
+  }
+}
