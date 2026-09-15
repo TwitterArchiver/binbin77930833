@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2098110292375089412",
+    "created_at": "2026-09-11T07:41:53.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098316080980938834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864320713622278144",
+          "start": 0,
+          "username": "PINK499999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098316080980938834",
+    "in_reply_to_user_id": "1864320713622278144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098269807007391948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PINK499999 你好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2098110292375089412",
+        "created_at": "2026-09-11T07:41:53.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098316080980938834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1864320713622278144",
+              "start": 0,
+              "username": "PINK499999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098316080980938834",
+        "in_reply_to_user_id": "1864320713622278144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098269807007391948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PINK499999 你好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864320713622278144",
+        "conversation_id": "2098110292375089412",
+        "created_at": "2026-09-11T04:38:00.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098269807007391948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098269807007391948",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098110292375089412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 hi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2098316080980938834",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 370,
+          "like_count": 2113,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-04T14:47:58.000Z",
+        "description": "孤独患者",
+        "id": "1864320713622278144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098269807007391948",
+        "name": "Noir",
+        "pinned_tweet_id": "2043771282974748672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864320713622278144/1788028557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093769522067152896/jgdj5w9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 101,
+          "like_count": 5185,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 3546
+        },
+        "url": "",
+        "username": "PINK499999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

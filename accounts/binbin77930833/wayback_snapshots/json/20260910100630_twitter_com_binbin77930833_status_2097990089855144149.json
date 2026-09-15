@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2097666153858601003",
+    "created_at": "2026-09-10T10:06:30.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097990089855144149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097990089855144149",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097666153858601003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya oder灵机一动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2097666153858601003",
+        "created_at": "2026-09-10T10:06:30.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097990089855144149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097990089855144149",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097666153858601003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya oder灵机一动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860552199585300482",
+        "conversation_id": "2097666153858601003",
+        "created_at": "2026-09-09T12:39:18.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097666153858601003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097666153858601003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2337,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当大毒枭灵机一动\n我：医生我的奥沙西泮吃的有点太久了吧都3个月了。\n医生：奥沙西泮治焦虑快，再吃一点巩固一会吧！\n我：治焦虑的话普瑞巴林也行（😋\n医生：也可以呀，要不下次你来换这个药吧，这次奥沙西泮处方都开好了。\n\n番外\n我：我去这么强\n医生：包的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2097990089855144149",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 370,
+          "like_count": 2096,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "|无糖跨女| |C++|\n|生产日期2012.1.7|\n|18岁以后我会重拾起我的梦想|",
+        "id": "1860552199585300482",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097989109029740577",
+        "name": "Eraya_",
+        "pinned_tweet_id": "2088544669643002356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860552199585300482/1764860170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 260,
+          "like_count": 885,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "Seven_Eraya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
