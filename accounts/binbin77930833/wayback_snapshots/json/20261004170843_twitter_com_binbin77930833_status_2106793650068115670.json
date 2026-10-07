@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775522951749591040",
+    "conversation_id": "2106723691212239031",
+    "created_at": "2026-10-04T17:08:43.000Z",
+    "display_text_range": [
+      12,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T18:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106793650068115670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072547086286168064",
+          "start": 0,
+          "username": "europhiaL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106793650068115670",
+    "in_reply_to_user_id": "2072547086286168064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106760200598569331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@europhiaL7 雷电mod1 一把塔科夫游戏武器 价值300万卢布"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2106723691212239031",
+        "created_at": "2026-10-04T17:08:43.000Z",
+        "display_text_range": [
+          12,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106793650068115670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072547086286168064",
+              "start": 0,
+              "username": "europhiaL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106793650068115670",
+        "in_reply_to_user_id": "2072547086286168064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106760200598569331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@europhiaL7 雷电mod1 一把塔科夫游戏武器 价值300万卢布"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072547086286168064",
+        "conversation_id": "2106723691212239031",
+        "created_at": "2026-10-04T14:55:48.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106760200598569331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106760200598569331",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106723691212239031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 此乃何物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2106793650068115670",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1789575342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 404,
+          "like_count": 2581,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T05:06:34.000Z",
+        "description": "˙˖Ი𐑼⋆\n@slitudergi6 @17xiaoxuan00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "slitudergi6"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "17xiaoxuan00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ttov0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ttov0",
+                "start": 0,
+                "url": "https://t.co/yvcVJ1JqEZ"
+              }
+            ]
+          }
+        },
+        "id": "2072547086286168064",
+        "is_identity_verified": false,
+        "location": "❄️🚪",
+        "most_recent_tweet_id": "2106792611315151084",
+        "name": "compassionatelove",
+        "pinned_tweet_id": "2105155077912818135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072547086286168064/1789466627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105620617680830464/L7oyxA-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 39,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/yvcVJ1JqEZ",
+        "username": "europhiaL7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
